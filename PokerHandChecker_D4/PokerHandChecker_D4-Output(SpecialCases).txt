@@ -1,0 +1,58 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;\red255\green255\blue0;
+\red163\green217\blue121;}
+{\*\expandedcolortbl;;\csgray\c0;\csgray\c100000;\csgenericrgb\c100000\c100000\c0;
+\csgenericrgb\c63922\c85098\c47451;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf2 \cb3 \CocoaLigature0 PokerHandChecker_D4.cpp output of Poker.txt with Comments\
+\
+Total Hands loaded: 11\
+Hand Player 1                      Player 2                      Winner         \
+===========================================================================\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6261\tx6720\pardirnatural\qc\partightenfactor0
+\cf2 \cb4 POKER HAND CASES FROM PROJECT SYLLABUS\cb3 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf2 1    5H 5C 6S 7S KD                2C 3S 8S 8D TD                \
+     \cb5 Pair of Fives\cb3                  Pair of Eights                Player 2\
+2    5D 8C 9S JS AC                2C 5C 7D 8S QH                \
+     \cb5 High Card - Ace\cb3                High Card - Queen             Player 1\
+3    2D 9C AS AH AC                3D 6D 7D TD QD                \
+     \cb5 Three of a Kind (Aces)\cb3         \cb5 Flush\cb3                          Player 2\
+4    4D 6S 9H QH QC                3D 6D 7H QD QS                \
+     Pair of Queens                Pair of Queens                Player 1\
+5    2H 2D 4C 4D 4S                3C 3D 3S 9S 9D                \
+     \cb5 Full House with 3 Fours\cb3        Full House with 3 Threes      Player 1\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6261\tx6720\pardirnatural\qc\partightenfactor0
+\cf2 \cb4 ADDITIONAL POKER HAND CASES\cf2 \cb3 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf2 6    2D 3D 4D 5D 6D                TD JD QD KD AD                \
+     \cb5 Straight Flush \cb3                \cb5 Royal Flush  \cb3                  Player 2\
+7    5C 5H 5D 5S 6H                9C 9S 9H 9D 3D                \
+     \cb5 Four of a Kind (Fives) \cb3        Four of a Kind (Nines)        Player 2\
+8    5C 5H 5D 2S 6H                9C 9S 9H 4D 3D                \
+     Three of a Kind (Fives)       Three of a Kind (Nines)       Player 2\
+9    6H 6D 9D 9S 9H                5S 5H 8D 8H 8S                \
+     Full House with 3 Nines       Full House with 3 Eights      Player 1\
+10   9D 9S TD TS AH                JD JS QH QD KD                \
+     \cb5 Pairs (Ten, Nine)\cb3              Pairs (Queen, Jack)           Player 2\
+11   3D 4H 5D 6S 7H                5H 4S 6D 7D 8H                \
+     \cb5 Straight  \cb3                     Straight                      Player 2\
+\
+Player 1 Wins 4 times.\
+\
+In Green, I highlighted specific hand cases to show that each type of case is handled (only first instance). There are a total of 10 poker hand cases.\
+\
+Poker Hand Cases: High Card\
+				 One Pair\
+				 Two Pairs\
+				 Three of a Kind\
+				 Straight\
+				 Flush\
+				 Full House\
+				 Four of a Kind\
+				 Straight Flush\
+				 Royal Flush}

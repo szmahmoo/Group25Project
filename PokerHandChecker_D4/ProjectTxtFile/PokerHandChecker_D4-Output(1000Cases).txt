@@ -1,0 +1,2010 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;}
+{\*\expandedcolortbl;;\csgray\c0;\csgray\c100000;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf2 \cb3 \CocoaLigature0 Total Hands loaded: 1000\
+Hand Player 1                      Player 2                      Winner         \
+===========================================================================\
+1    8C TS KC 9H 4S                7D 2S 5D 3S AC                \
+     High Card - King              High Card - Ace               Player 2\
+2    5C AD 5D AC 9C                7C 5H 8D TD KS                \
+     Pairs (Ace, Five)             High Card - King              Player 1\
+3    3H 7H 6S KC JS                QH TD JC 2D 8S                \
+     High Card - King              High Card - Queen             Player 1\
+4    TH 8H 5C QS TC                9H 4D JC KS JS                \
+     Pair of Tens                  Pair of Jacks                 Player 2\
+5    7C 5H KC QH JD                AS KH 4C AD 4S                \
+     High Card - King              Pairs (Ace, Four)             Player 2\
+6    5H KS 9C 7D 9H                8D 3S 5D 5C AH                \
+     Pair of Nines                 Pair of Fives                 Player 1\
+7    6H 4H 5C 3H 2H                3S QH 5S 6S AS                \
+     Straight                      High Card - Ace               Player 1\
+8    TD 8C 4H 7C TC                KC 4C 3H 7S KS                \
+     Pair of Tens                  Pair of Kings                 Player 2\
+9    7C 9C 6D KD 3H                4C QS QC AC KH                \
+     High Card - King              Pair of Queens                Player 2\
+10   JC 6S 5H 2H 2D                KD 9D 7C AS JS                \
+     Pair of Twos                  High Card - Ace               Player 1\
+11   AD QH TH 9D 8H                TS 6D 3S AS AC                \
+     High Card - Ace               Pair of Aces                  Player 2\
+12   2H 4S 5C 5S TC                KC JD 6C TS 3C                \
+     Pair of Fives                 High Card - King              Player 1\
+13   QD AS 6H JS 2C                3D 9H KC 4H 8S                \
+     High Card - Ace               High Card - King              Player 1\
+14   KD 8S 9S 7C 2S                3S 6D 6S 4H KC                \
+     High Card - King              Pair of Sixs                  Player 2\
+15   3C 8C 2D 7D 4D                9S 4S QH 4H JD                \
+     High Card - Eight             Pair of Fours                 Player 2\
+16   8C KC 7S TC 2D                TS 8H QD AC 5C                \
+     High Card - King              High Card - Ace               Player 2\
+17   3D KH QD 6C 6S                AD AS 8H 2H QS                \
+     Pair of Sixs                  Pair of Aces                  Player 2\
+18   6S 8D 4C 8S 6C                QH TC 6D 7D 9D                \
+     Pairs (Eight, Six)            High Card - Queen             Player 1\
+19   2S 8D 8C 4C TS                9S 9D 9C AC 3D                \
+     Pair of Eights                Three of a Kind (Nines)       Player 2\
+20   3C QS 2S 4H JH                3D 2D TD 8S 9H                \
+     High Card - Queen             High Card - Ten               Player 1\
+21   5H QS 8S 6D 3C                8C JD AS 7H 7D                \
+     High Card - Queen             Pair of Sevens                Player 2\
+22   6H TD 9D AS JH                6C QC 9S KD JC                \
+     High Card - Ace               High Card - King              Player 1\
+23   AH 8S QS 4D TH                AC TS 3C 3D 5C                \
+     High Card - Ace               Pair of Threes                Player 2\
+24   5S 4D JS 3D 8H                6C TS 3S AD 8C                \
+     High Card - Jack              High Card - Ace               Player 2\
+25   6D 7C 5D 5H 3S                5C JC 2H 5S 3D                \
+     Pair of Fives                 Pair of Fives                 Player 2\
+26   5H 6H 2S KS 3D                5D JD 7H JS 8H                \
+     High Card - King              Pair of Jacks                 Player 2\
+27   KH 4H AS JS QS                QC TC 6D 7C KS                \
+     High Card - Ace               High Card - King              Player 1\
+28   3D QS TS 2H JS                4D AS 9S JC KD                \
+     High Card - Queen             High Card - Ace               Player 2\
+29   QD 5H 4D 5D KH                7H 3D JS KD 4H                \
+     Pair of Fives                 High Card - King              Player 1\
+30   2C 9H 6H 5C 9D                6C JC 2D TH 9S                \
+     Pair of Nines                 High Card - Jack              Player 1\
+31   7D 6D AS QD JH                4D JS 7C QS 5C                \
+     High Card - Ace               High Card - Queen             Player 1\
+32   3H KH QD AD 8C                8H 3S TH 9D 5S                \
+     High Card - Ace               High Card - Ten               Player 1\
+33   AH 9S 4D 9D 8S                4H JS 3C TC 8D                \
+     Pair of Nines                 High Card - Jack              Player 1\
+34   2C KS 5H QD 3S                TS 9H AH AD 8S                \
+     High Card - King              Pair of Aces                  Player 2\
+35   5C 7H 5D KD 9H                4D 3D 2D KS AD                \
+     Pair of Fives                 High Card - Ace               Player 1\
+36   KS KC 9S 6D 2C                QH 9D 9H TS TC                \
+     Pair of Kings                 Pairs (Ten, Nine)             Player 2\
+37   9C 6H 5D QH 4D                AD 6D QC JS KH                \
+     High Card - Queen             High Card - Ace               Player 2\
+38   9S 3H 9D JD 5C                4D 9H AS TC QH                \
+     Pair of Nines                 High Card - Ace               Player 1\
+39   2C 6D JC 9C 3C                AD 9S KH 9D 7D                \
+     High Card - Jack              Pair of Nines                 Player 2\
+40   KC 9C 7C JC JS                KD 3H AS 3C 7D                \
+     Pair of Jacks                 Pair of Threes                Player 1\
+41   QD KH QS 2C 3S                8S 8H 9H 9C JC                \
+     Pair of Queens                Pairs (Nine, Eight)           Player 2\
+42   QH 8D 3C KC 4C                4H 6D AD 9H 9D                \
+     High Card - King              Pair of Nines                 Player 2\
+43   3S KS QS 7H KH                7D 5H 5D JD AD                \
+     Pair of Kings                 Pair of Fives                 Player 1\
+44   2H 2C 6H TH TC                7D 8D 4H 8C AS                \
+     Pairs (Ten, Two)              Pair of Eights                Player 1\
+45   4S 2H AC QC 3S                6D TH 4D 4C KH                \
+     High Card - Ace               Pair of Fours                 Player 2\
+46   4D TC KS AS 7C                3C 6D 2D 9H 6C                \
+     High Card - Ace               Pair of Sixs                  Player 2\
+47   8C TD 5D QS 2C                7H 4C 9C 3H 9H                \
+     High Card - Queen             Pair of Nines                 Player 2\
+48   5H JH TS 7S TD                6H AD QD 8H 8S                \
+     Pair of Tens                  Pair of Eights                Player 1\
+49   5S AD 9C 8C 7C                8D 5H 9D 8S 2S                \
+     High Card - Ace               Pair of Eights                Player 2\
+50   4H KH KS 9S 2S                KC 5S AD 4S 7D                \
+     Pair of Kings                 High Card - Ace               Player 1\
+51   QS 9C QD 6H JS                5D AC 8D 2S AS                \
+     Pair of Queens                Pair of Aces                  Player 2\
+52   KH AC JC 3S 9D                9S 3C 9C 5S JS                \
+     High Card - Ace               Pair of Nines                 Player 2\
+53   AD 3C 3D KS 3S                5C 9C 8C TS 4S                \
+     Three of a Kind (Threes)      High Card - Ten               Player 1\
+54   JH 8D 5D 6H KD                QS QD 3D 6C KC                \
+     High Card - King              Pair of Queens                Player 2\
+55   8S JD 6C 3S 8C                TC QC 3C QH JS                \
+     Pair of Eights                Pair of Queens                Player 2\
+56   KC JC 8H 2S 9H                9C JH 8S 8C 9S                \
+     High Card - King              Pairs (Nine, Eight)           Player 2\
+57   8S 2H QH 4D QC                9D KC AS TH 3C                \
+     Pair of Queens                High Card - Ace               Player 1\
+58   8S 6H TH 7C 2H                6S 3C 3H AS 7S                \
+     High Card - Ten               Pair of Threes                Player 2\
+59   QH 5S JS 4H 5H                TS 8H AH AC JC                \
+     Pair of Fives                 Pair of Aces                  Player 2\
+60   9D 8H 2S 4S TC                JC 3C 7H 3H 5C                \
+     High Card - Ten               Pair of Threes                Player 2\
+61   3D AD 3C 3S 4C                QC AS 5D TH 8C                \
+     Three of a Kind (Threes)      High Card - Ace               Player 1\
+62   6S 9D 4C JS KH                AH TS JD 8H AD                \
+     High Card - King              Pair of Aces                  Player 2\
+63   4C 6S 9D 7S AC                4D 3D 3S TC JD                \
+     High Card - Ace               Pair of Threes                Player 2\
+64   AD 7H 6H 4H JH                KC TD TS 7D 6S                \
+     High Card - Ace               Pair of Tens                  Player 2\
+65   8H JH TC 3S 8D                8C 9S 2C 5C 4D                \
+     Pair of Eights                High Card - Nine              Player 1\
+66   2C 9D KC QH TH                QS JC 9C 4H TS                \
+     High Card - King              High Card - Queen             Player 1\
+67   QS 3C QD 8H KH                4H 8D TD 8S AC                \
+     Pair of Queens                Pair of Eights                Player 1\
+68   7C 3C TH 5S 8H                8C 9C JD TC KD                \
+     High Card - Ten               High Card - King              Player 2\
+69   QC TC JD TS 8C                3H 6H KD 7C TD                \
+     Pair of Tens                  High Card - King              Player 1\
+70   JH QS KS 9C 6D                6S AS 9H KH 6H                \
+     High Card - King              Pair of Sixs                  Player 2\
+71   2H 4D AH 2D JH                6H TD 5D 4H JD                \
+     Pair of Twos                  High Card - Jack              Player 1\
+72   KD 8C 9S JH QD                JS 2C QS 5C 7C                \
+     High Card - King              High Card - Queen             Player 1\
+73   4S TC 7H 8D 2S                6H 7S 9C 7C KC                \
+     High Card - Ten               Pair of Sevens                Player 2\
+74   8C 5D 7H 4S TD                QC 8S JS 4H KS                \
+     High Card - Ten               High Card - King              Player 2\
+75   AD 8S JH 6D TD                KD 7C 6C 2D 7D                \
+     High Card - Ace               Pair of Sevens                Player 2\
+76   JC 6H 6S JS 4H                QH 9H AH 4C 3C                \
+     Pairs (Jack, Six)             High Card - Ace               Player 1\
+77   6H 5H AS 7C 7S                3D KH KC 5D 5C                \
+     Pair of Sevens                Pairs (King, Five)            Player 2\
+78   JC 3D TD AS 4D                6D 6S QH JD KS                \
+     High Card - Ace               Pair of Sixs                  Player 2\
+79   8C 7S 8S QH 2S                JD 5C 7H AH QD                \
+     Pair of Eights                High Card - Ace               Player 1\
+80   8S 3C 6H 6C 2C                8D TD 7D 4C 4D                \
+     Pair of Sixs                  Pair of Fours                 Player 1\
+81   5D QH KH 7C 2S                7H JS 6D QC QD                \
+     High Card - King              Pair of Queens                Player 2\
+82   AD 6C 6S 7D TH                6H 2H 8H KH 4H                \
+     Pair of Sixs                  Flush                         Player 2\
+83   KS JS KD 5D 2D                KH 7D 9C 8C 3D                \
+     Pair of Kings                 High Card - King              Player 1\
+84   9C 6D QD 3C KS                3S 7S AH JD 2D                \
+     High Card - King              High Card - Ace               Player 2\
+85   AH QH AS JC 8S                8H 4C KC TH 7D                \
+     Pair of Aces                  High Card - King              Player 1\
+86   JC 5H TD 7C 5D                KD 4C AD 8H JS                \
+     Pair of Fives                 High Card - Ace               Player 1\
+87   KC 2H AC AH 7D                JH KH 5D 7S 6D                \
+     Pair of Aces                  High Card - King              Player 1\
+88   9S 5S 9C 6H 8S                TD JD 9H 6C AC                \
+     Pair of Nines                 High Card - Ace               Player 1\
+89   7D 8S 6D TS KD                7H AC 5S 7C 5D                \
+     High Card - King              Pairs (Seven, Five)           Player 2\
+90   AH QC JC 4C TC                8C 2H TS 2C 7D                \
+     High Card - Ace               Pair of Twos                  Player 2\
+91   KD KC 6S 3D 7D                2S 8S 3H 5S 5C                \
+     Pair of Kings                 Pair of Fives                 Player 1\
+92   8S 5D 8H 4C 6H                KC 3H 7C 5S KD                \
+     Pair of Eights                Pair of Kings                 Player 2\
+93   JH 8C 3D 3C 6C                KC TD 7H 7C 4C                \
+     Pair of Threes                Pair of Sevens                Player 2\
+94   JC KC 6H TS QS                TD KS 8H 8C 9S                \
+     High Card - King              Pair of Eights                Player 2\
+95   6C 5S 9C QH 7D                AH KS KC 9S 2C                \
+     High Card - Queen             Pair of Kings                 Player 2\
+96   4D 4S 8H TD 9C                3S 7D 9D AS TH                \
+     Pair of Fours                 High Card - Ace               Player 1\
+97   6S 7D 3C 6H 5D                KD 2C 5C 9D 9C                \
+     Pair of Sixs                  Pair of Nines                 Player 2\
+98   2H KC 3D AD 3H                QD QS 8D JC 4S                \
+     Pair of Threes                Pair of Queens                Player 2\
+99   8C 3H 9C 7C AD                5D JC 9D JS AS                \
+     High Card - Ace               Pair of Jacks                 Player 2\
+100  5D 9H 5C 7H 6S                6C QC JC QD 9S                \
+     Pair of Fives                 Pair of Queens                Player 2\
+101  JC QS JH 2C 6S                9C QC 3D 4S TC                \
+     Pair of Jacks                 High Card - Queen             Player 1\
+102  4H 5S 8D 3D 4D                2S KC 2H JS 2C                \
+     Pair of Fours                 Three of a Kind (Twos)        Player 2\
+103  TD 3S TH KD 4D                7H JH JS KS AC                \
+     Pair of Tens                  Pair of Jacks                 Player 2\
+104  7S 8C 9S 2D 8S                7D 5C AD 9D AS                \
+     Pair of Eights                Pair of Aces                  Player 2\
+105  8C 7H 2S 6C TH                3H 4C 3S 8H AC                \
+     High Card - Ten               Pair of Threes                Player 2\
+106  KD 5H JC 8H JD                2D 4H TD JH 5C                \
+     Pair of Jacks                 High Card - Jack              Player 1\
+107  3D AS QH KS 7H                JD 8S 5S 6D 5H                \
+     High Card - Ace               Pair of Fives                 Player 2\
+108  9S 6S TC QS JC                5C 5D 9C TH 8C                \
+     High Card - Queen             Pair of Fives                 Player 2\
+109  5H 3S JH 9H 2S                2C 6S 7S AS KS                \
+     High Card - Jack              High Card - Ace               Player 2\
+110  8C QD JC QS TC                QC 4H AC KH 6C                \
+     Pair of Queens                High Card - Ace               Player 1\
+111  TC 5H 7D JH 4H                2H 8D JC KS 4D                \
+     High Card - Jack              High Card - King              Player 2\
+112  5S 9C KH KD 9H                5C TS 3D 7D 2D                \
+     Pairs (King, Nine)            High Card - Ten               Player 1\
+113  5H AS TC 4D 8C                2C TS 9D 3H 8D                \
+     High Card - Ace               High Card - Ten               Player 1\
+114  6H 8D 2D 9H JD                6C 4S 5H 5S 6D                \
+     High Card - Jack              Pairs (Six, Five)             Player 2\
+115  AD 9C JC 7D 6H                9S 6D JS 9H 3C                \
+     High Card - Ace               Pair of Nines                 Player 2\
+116  AD JH TC QS 4C                5D 9S 7C 9C AH                \
+     High Card - Ace               Pair of Nines                 Player 2\
+117  KD 6H 2H TH 8S                QD KS 9D 9H AS                \
+     High Card - King              Pair of Nines                 Player 2\
+118  4H 8H 8D 5H 6C                AH 5S AS AD 8S                \
+     Pair of Eights                Three of a Kind (Aces)        Player 2\
+119  QS 5D 4S 2H TD                KS 5H AC 3H JC                \
+     High Card - Queen             High Card - Ace               Player 2\
+120  9C 7D QD KD AC                6D 5H QH 6H 5S                \
+     High Card - Ace               Pairs (Six, Five)             Player 2\
+121  KC AH QH 2H 7D                QS 3H KS 7S JD                \
+     High Card - Ace               High Card - King              Player 1\
+122  6C 8S 3H 6D KS                QD 5D 5C 8H TC                \
+     Pair of Sixs                  Pair of Fives                 Player 1\
+123  9H 4D 4S 6S 9D                KH QC 4H 6C JD                \
+     Pairs (Nine, Four)            High Card - King              Player 1\
+124  TD 2D QH 4S 6H                JH KD 3C QD 8C                \
+     High Card - Queen             High Card - King              Player 2\
+125  4S 6H 7C QD 9D                AS AH 6S AD 3C                \
+     High Card - Queen             Three of a Kind (Aces)        Player 2\
+126  2C KC TH 6H 8D                AH 5C 6D 8S 5D                \
+     High Card - King              Pair of Fives                 Player 2\
+127  TD TS 7C AD JC                QD 9H 3C KC 7H                \
+     Pair of Tens                  High Card - King              Player 1\
+128  5D 4D 5S 8H 4H                7D 3H JD KD 2D                \
+     Pairs (Five, Four)            High Card - King              Player 1\
+129  JH TD 6H QS 4S                KD 5C 8S 7D 8H                \
+     High Card - Queen             Pair of Eights                Player 2\
+130  AC 3D AS 8C TD                7H KH 5D 6C JD                \
+     Pair of Aces                  High Card - King              Player 1\
+131  9D KS 7C 6D QH                TC JD KD AS KC                \
+     High Card - King              Pair of Kings                 Player 2\
+132  JH 8S 5S 7S 7D                AS 2D 3D AD 2H                \
+     Pair of Sevens                Pairs (Ace, Two)              Player 2\
+133  2H 5D AS 3C QD                KC 6H 9H 9S 2C                \
+     High Card - Ace               Pair of Nines                 Player 2\
+134  9D 5D TH 4C JH                3H 8D TC 8H 9H                \
+     High Card - Jack              Pair of Eights                Player 2\
+135  6H KD 2C TD 2H                6C 9D 2D JS 8C                \
+     Pair of Twos                  High Card - Jack              Player 1\
+136  KD 7S 3C 7C AS                QH TS AD 8C 2S                \
+     Pair of Sevens                High Card - Ace               Player 1\
+137  QS 8H 6C JS 4C                9S QC AD TD TS                \
+     High Card - Queen             Pair of Tens                  Player 2\
+138  2H 7C TS TC 8C                3C 9H 2D 6D JC                \
+     Pair of Tens                  High Card - Jack              Player 1\
+139  TC 2H 8D JH KS                6D 3H TD TH 8H                \
+     High Card - King              Pair of Tens                  Player 2\
+140  9D TD 9H QC 5D                6C 8H 8C KC TS                \
+     Pair of Nines                 Pair of Eights                Player 1\
+141  2H 8C 3D AH 4D                TH TC 7D 8H KC                \
+     High Card - Ace               Pair of Tens                  Player 2\
+142  TS 5C 2D 8C 6S                KH AH 5H 6H KC                \
+     High Card - Ten               Pair of Kings                 Player 2\
+143  5S 5D AH TC 4C                JD 8D 6H 8C 6C                \
+     Pair of Fives                 Pairs (Eight, Six)            Player 2\
+144  KC QD 3D 8H 2D                JC 9H 4H AD 2S                \
+     High Card - King              High Card - Ace               Player 2\
+145  TD 6S 7D JS KD                4H QS 2S 3S 8C                \
+     High Card - King              High Card - Queen             Player 1\
+146  4C 9H JH TS 3S                4H QC 5S 9S 9C                \
+     High Card - Jack              Pair of Nines                 Player 2\
+147  2C KD 9H JS 9S                3H JC TS 5D AC                \
+     Pair of Nines                 High Card - Ace               Player 1\
+148  AS 2H 5D AD 5H                JC 7S TD JS 4C                \
+     Pairs (Ace, Five)             Pair of Jacks                 Player 1\
+149  2D 4S 8H 3D 7D                2C AD KD 9C TS                \
+     High Card - Eight             High Card - Ace               Player 2\
+150  7H QD JH 5H JS                AC 3D TH 4C 8H                \
+     Pair of Jacks                 High Card - Ace               Player 1\
+151  6D KH KC QD 5C                AD 7C 2D 4H AC                \
+     Pair of Kings                 Pair of Aces                  Player 2\
+152  3D 9D TC 8S QD                2C JC 4H JD AH                \
+     High Card - Queen             Pair of Jacks                 Player 2\
+153  6C TD 5S TC 8S                AH 2C 5D AS AC                \
+     Pair of Tens                  Three of a Kind (Aces)        Player 2\
+154  TH 7S 3D AS 6C                4C 7H 7D 4H AH                \
+     High Card - Ace               Pairs (Seven, Four)           Player 2\
+155  5C 2H KS 6H 7S                4H 5H 3D 3C 7H                \
+     High Card - King              Pair of Threes                Player 2\
+156  3C 9S AC 7S QH                2H 3D 6S 3S 3H                \
+     High Card - Ace               Three of a Kind (Threes)      Player 2\
+157  2D 3H AS 2C 6H                TC JS 6S 9C 6C                \
+     Pair of Twos                  Pair of Sixs                  Player 2\
+158  QH KD QD 6D AC                6H KH 2C TS 8C                \
+     Pair of Queens                High Card - King              Player 1\
+159  8H 7D 3S 9H 5D                3H 4S QC 9S 5H                \
+     High Card - Nine              High Card - Queen             Player 2\
+160  2D 9D 7H 6H 3C                8S 5H 4D 3S 4S                \
+     High Card - Nine              Pair of Fours                 Player 2\
+161  KD 9S 4S TC 7S                QC 3S 8S 2H 7H                \
+     High Card - King              High Card - Queen             Player 1\
+162  TC 3D 8C 3H 6C                2H 6H KS KD 4D                \
+     Pair of Threes                Pair of Kings                 Player 2\
+163  KC 3D 9S 3H JS                4S 8H 2D 6C 8S                \
+     Pair of Threes                Pair of Eights                Player 2\
+164  6H QS 6C TC QD                9H 7D 7C 5H 4D                \
+     Pairs (Queen, Six)            Pair of Sevens                Player 1\
+165  TD 9D 8D 6S 6C                TC 5D TS JS 8H                \
+     Pair of Sixs                  Pair of Tens                  Player 2\
+166  4H KC JD 9H TC                2C 6S 5H 8H AS                \
+     High Card - King              High Card - Ace               Player 2\
+167  JS 9C 5C 6S 9D                JD 8H KC 4C 6D                \
+     Pair of Nines                 High Card - King              Player 1\
+168  4D 8D 8S 6C 7C                6H 7H 8H 5C KC                \
+     Pair of Eights                High Card - King              Player 1\
+169  TC 3D JC 6D KS                9S 6H 7S 9C 2C                \
+     High Card - King              Pair of Nines                 Player 2\
+170  6C 3S KD 5H TS                7D 9H 9S 6H KH                \
+     High Card - King              Pair of Nines                 Player 2\
+171  3D QD 4C 6H TS                AC 3S 5C 2H KD                \
+     High Card - Queen             High Card - Ace               Player 2\
+172  4C AS JS 9S 7C                TS 7H 9H JC KS                \
+     High Card - Ace               High Card - King              Player 1\
+173  4H 8C JD 3H 6H                AD 9S 4S 5S KS                \
+     High Card - Jack              High Card - Ace               Player 2\
+174  4C 2C 7D 3D AS                9C 2S QS KC 6C                \
+     High Card - Ace               High Card - King              Player 1\
+175  8S 5H 3D 2S AC                9D 6S 3S 4D TD                \
+     High Card - Ace               High Card - Ten               Player 1\
+176  QD TH 7S TS 3D                AC 7H 6C 5D QC                \
+     Pair of Tens                  High Card - Ace               Player 1\
+177  TC QD AD 9C QS                5C 8D KD 3D 3C                \
+     Pair of Queens                Pair of Threes                Player 1\
+178  9D 8H AS 3S 7C                8S JD 2D 8D KC                \
+     High Card - Ace               Pair of Eights                Player 2\
+179  4C TH AC QH JS                8D 7D 7S 9C KH                \
+     High Card - Ace               Pair of Sevens                Player 2\
+180  9D 8D 4C JH 2C                2S QD KD TS 4H                \
+     High Card - Jack              High Card - King              Player 2\
+181  4D 6D 5D 2D JH                3S 8S 3H TC KH                \
+     High Card - Jack              Pair of Threes                Player 2\
+182  AD 4D 2C QS 8C                KD JH JD AH 5C                \
+     High Card - Ace               Pair of Jacks                 Player 2\
+183  5C 6C 5H 2H JH                4H KS 7C TC 3H                \
+     Pair of Fives                 High Card - King              Player 1\
+184  3C 4C QC 5D JH                9C QD KH 8D TC                \
+     High Card - Queen             High Card - King              Player 2\
+185  3H 9C JS 7H QH                AS 7C 9H 5H JC                \
+     High Card - Queen             High Card - Ace               Player 2\
+186  2D 5S QD 4S 3C                KC 6S 6C 5C 4C                \
+     High Card - Queen             Pair of Sixs                  Player 2\
+187  5D KH 2D TS 8S                9C AS 9S 7C 4C                \
+     High Card - King              Pair of Nines                 Player 2\
+188  7C AH 8C 8D 5S                KD QH QS JH 2C                \
+     Pair of Eights                Pair of Queens                Player 2\
+189  8C 9D AH 2H AC                QC 5S 8H 7H 2C                \
+     Pair of Aces                  High Card - Queen             Player 1\
+190  QD 9H 5S QS QC                9C 5H JC TH 4H                \
+     Three of a Kind (Queens)      High Card - Jack              Player 1\
+191  6C 6S 3H 5H 3S                6H KS 8D AC 7S                \
+     Pairs (Six, Three)            High Card - Ace               Player 1\
+192  AC QH 7H 8C 4S                KC 6C 3D 3S TC                \
+     High Card - Ace               Pair of Threes                Player 2\
+193  9D 3D JS TH AC                5H 3H 8S 3S TC                \
+     High Card - Ace               Pair of Threes                Player 2\
+194  QD KH JS KS 9S                QC 8D AH 3C AC                \
+     Pair of Kings                 Pair of Aces                  Player 2\
+195  5H 6C KH 3S 9S                JH 2D QD AS 8C                \
+     High Card - King              High Card - Ace               Player 2\
+196  6C 4D 7S 7H 5S                JC 6S 9H 4H JH                \
+     Pair of Sevens                Pair of Jacks                 Player 2\
+197  AH 5S 6H 9S AD                3S TH 2H 9D 8C                \
+     Pair of Aces                  High Card - Ten               Player 1\
+198  4C 8D 9H 7C QC                AD 4S 9C KC 5S                \
+     High Card - Queen             High Card - Ace               Player 2\
+199  9D 6H 4D TC 4C                JH 2S 5D 3S AS                \
+     Pair of Fours                 High Card - Ace               Player 1\
+200  2H 6C 7C KH 5C                AD QS TH JD 8S                \
+     High Card - King              High Card - Ace               Player 2\
+201  3S 4S 7S AH AS                KC JS 2S AD TH                \
+     Pair of Aces                  High Card - Ace               Player 1\
+202  JS KC 2S 7D 8C                5C 9C TS 5H 9D                \
+     High Card - King              Pairs (Nine, Five)            Player 2\
+203  7S 9S 4D TD JH                JS KH 6H 5D 2C                \
+     High Card - Jack              High Card - King              Player 2\
+204  JD JS JC TH 2D                3D QD 8C AC 5H                \
+     Three of a Kind (Jacks)       High Card - Ace               Player 1\
+205  7S KH 5S 9D 5D                TD 4S 6H 3C 2D                \
+     Pair of Fives                 High Card - Ten               Player 1\
+206  4S 5D AC 8D 4D                7C AD AS AH 9C                \
+     Pair of Fours                 Three of a Kind (Aces)        Player 2\
+207  6S TH TS KS 2C                QC AH AS 3C 4S                \
+     Pair of Tens                  Pair of Aces                  Player 2\
+208  2H 8C 3S JC 5C                7C 3H 3C KH JH                \
+     High Card - Jack              Pair of Threes                Player 2\
+209  7S 3H JC 5S 6H                4C 2S 4D KC 7H                \
+     High Card - Jack              Pair of Fours                 Player 2\
+210  4D 7C 4H 9S 8S                6S AD TC 6C JC                \
+     Pair of Fours                 Pair of Sixs                  Player 2\
+211  KH QS 3S TC 4C                8H 8S AC 3C TS                \
+     High Card - King              Pair of Eights                Player 2\
+212  QD QS TH 3C TS                7H 7D AH TD JC                \
+     Pairs (Queen, Ten)            Pair of Sevens                Player 1\
+213  TD JD QC 4D 9S                7S TS AD 7D AC                \
+     High Card - Queen             Pairs (Ace, Seven)            Player 2\
+214  AH 7H 4S 6D 7C                2H 9D KS JC TD                \
+     Pair of Sevens                High Card - King              Player 1\
+215  7C AH JD 4H 6D                QS TS 2H 2C 5C                \
+     High Card - Ace               Pair of Twos                  Player 2\
+216  TC KC 8C 9S 4C                JS 3C JC 6S AH                \
+     High Card - King              Pair of Jacks                 Player 2\
+217  AS 7D QC 3D 5S                JC JD 9D TD KH                \
+     High Card - Ace               Pair of Jacks                 Player 2\
+218  TH 3C 2S 6H AH                AC 5H 5C 7S 8H                \
+     High Card - Ace               Pair of Fives                 Player 2\
+219  QC 2D AC QD 2S                3S JD QS 6S 8H                \
+     Pairs (Queen, Two)            High Card - Queen             Player 1\
+220  KC 4H 3C 9D JS                6H 3S 8S AS 8C                \
+     High Card - King              Pair of Eights                Player 2\
+221  7H KC 7D JD 2H                JC QH 5S 3H QS                \
+     Pair of Sevens                Pair of Queens                Player 2\
+222  9H TD 3S 8H 7S                AC 5C 6C AH 7C                \
+     High Card - Ten               Pair of Aces                  Player 2\
+223  8D 9H AH JD TD                QS 7D 3S 9C 8S                \
+     High Card - Ace               High Card - Queen             Player 1\
+224  AH QH 3C JD KC                4S 5S 5D TD KS                \
+     High Card - Ace               Pair of Fives                 Player 2\
+225  9H 7H 6S JH TH                4C 7C AD 5C 2D                \
+     High Card - Jack              High Card - Ace               Player 2\
+226  7C KD 5S TC 9D                6S 6C 5D 2S TH                \
+     High Card - King              Pair of Sixs                  Player 2\
+227  KC 9H 8D 5H 7H                4H QC 3D 7C AS                \
+     High Card - King              High Card - Ace               Player 2\
+228  6S 8S QC TD 4S                5C TH QS QD 2S                \
+     High Card - Queen             Pair of Queens                Player 2\
+229  8S 5H TH QC 9H                6S KC 7D 7C 5C                \
+     High Card - Queen             Pair of Sevens                Player 2\
+230  7H KD AH 4D KH                5C 4S 2D KC QH                \
+     Pair of Kings                 High Card - King              Player 1\
+231  6S 2C TD JC AS                4D 6C 8C 4H 5S                \
+     High Card - Ace               Pair of Fours                 Player 2\
+232  JC TC JD 5S 6S                8D AS 9D AD 3S                \
+     Pair of Jacks                 Pair of Aces                  Player 2\
+233  6D 6H 5D 5S TC                3D 7D QS 9D QD                \
+     Pairs (Six, Five)             Pair of Queens                Player 1\
+234  4S 6C 8S 3S 7S                AD KS 2D 7D 7C                \
+     High Card - Eight             Pair of Sevens                Player 2\
+235  KC QH JC AC QD                5D 8D QS 7H 7D                \
+     Pair of Queens                Pair of Sevens                Player 1\
+236  JS AH 8S 5H 3D                TD 3H 4S 6C JH                \
+     High Card - Ace               High Card - Jack              Player 1\
+237  4S QS 7D AS 9H                JS KS 6D TC 5C                \
+     High Card - Ace               High Card - King              Player 1\
+238  2D 5C 6H TC 4D                QH 3D 9H 8S 6C                \
+     High Card - Ten               High Card - Queen             Player 2\
+239  6D 7H TC TH 5S                JD 5C 9C KS KD                \
+     Pair of Tens                  Pair of Kings                 Player 2\
+240  8D TD QH 6S 4S                6C 8S KC 5C TC                \
+     High Card - Queen             High Card - King              Player 2\
+241  5S 3D KS AC 4S                7D QD 4C TH 2S                \
+     High Card - Ace               High Card - Queen             Player 1\
+242  TS 8H 9S 6S 7S                QH 3C AH 7H 8C                \
+     Straight                      High Card - Ace               Player 1\
+243  4C 8C TS JS QC                3D 7D 5D 7S JH                \
+     High Card - Queen             Pair of Sevens                Player 2\
+244  8S 7S 9D QC AC                7C 6D 2H JH KC                \
+     High Card - Ace               High Card - King              Player 1\
+245  JS KD 3C 6S 4S                7C AH QC KS 5H                \
+     High Card - King              High Card - Ace               Player 2\
+246  KS 6S 4H JD QS                TC 8H KC 6H AS                \
+     High Card - King              High Card - Ace               Player 2\
+247  KH 7C TC 6S TD                JC 5C 7D AH 3S                \
+     Pair of Tens                  High Card - Ace               Player 1\
+248  3H 4C 4H TC TH                6S 7H 6D 9C QH                \
+     Pairs (Ten, Four)             Pair of Sixs                  Player 1\
+249  7D 5H 4S 8C JS                4D 3D 8S QH KC                \
+     High Card - Jack              High Card - King              Player 2\
+250  3H 6S AD 7H 3S                QC 8S 4S 7S JS                \
+     Pair of Threes                High Card - Queen             Player 1\
+251  3S JD KH TH 6H                QS 9C 6C 2D QD                \
+     High Card - King              Pair of Queens                Player 2\
+252  4S QH 4D 5H KC                7D 6D 8D TH 5S                \
+     Pair of Fours                 High Card - Ten               Player 1\
+253  TD AD 6S 7H KD                KH 9H 5S KC JC                \
+     High Card - Ace               Pair of Kings                 Player 2\
+254  3H QC AS TS 4S                QD KS 9C 7S KC                \
+     High Card - Ace               Pair of Kings                 Player 2\
+255  TS 6S QC 6C TH                TC 9D 5C 5D KD                \
+     Pairs (Ten, Six)              Pair of Fives                 Player 1\
+256  JS 3S 4H KD 4C                QD 6D 9S JC 9D                \
+     Pair of Fours                 Pair of Nines                 Player 2\
+257  8S JS 6D 4H JH                6H 6S 6C KS KH                \
+     Pair of Jacks                 Full House with 3 Sixs        Player 2\
+258  AC 7D 5D TC 9S                KH 6S QD 6H AS                \
+     High Card - Ace               Pair of Sixs                  Player 2\
+259  AS 7H 6D QH 8D                TH 2S KH 5C 5H                \
+     High Card - Ace               Pair of Fives                 Player 2\
+260  4C 7C 3D QC TC                4S KH 8C 2D JS                \
+     High Card - Queen             High Card - King              Player 2\
+261  6H 5D 7S 5H 9C                9H JH 8S TH 7H                \
+     Pair of Fives                 Straight                      Player 2\
+262  AS JS 2S QD KH                8H 4S AC 8D 8S                \
+     High Card - Ace               Three of a Kind (Eights)      Player 2\
+263  3H 4C TD KD 8C                JC 5C QS 2D JD                \
+     High Card - King              Pair of Jacks                 Player 2\
+264  TS 7D 5D 6C 2C                QS 2H 3C AH KS                \
+     High Card - Ten               High Card - Ace               Player 2\
+265  4S 7C 9C 7D JH                6C 5C 8H 9D QD                \
+     Pair of Sevens                High Card - Queen             Player 1\
+266  2S TD 7S 6D 9C                9S QS KH QH 5C                \
+     High Card - Ten               Pair of Queens                Player 2\
+267  JC 6S 9C QH JH                8D 7S JS KH 2H                \
+     Pair of Jacks                 High Card - King              Player 1\
+268  8D 5H TH KC 4D                4S 3S 6S 3D QS                \
+     High Card - King              Pair of Threes                Player 2\
+269  2D JD 4C TD 7C                6D TH 7S JC AH                \
+     High Card - Jack              High Card - Ace               Player 2\
+270  QS 7S 4C TH 9D                TS AD 4D 3H 6H                \
+     High Card - Queen             High Card - Ace               Player 2\
+271  2D 3H 7D JD 3D                AS 2S 9C QC 8S                \
+     Pair of Threes                High Card - Ace               Player 1\
+272  4H 9H 9C 2C 7S                JH KD 5C 5D 6H                \
+     Pair of Nines                 Pair of Fives                 Player 1\
+273  TC 9H 8H JC 3C                9S 8D KS AD KC                \
+     High Card - Jack              Pair of Kings                 Player 2\
+274  TS 5H JD QS QH                QC 8D 5D KH AH                \
+     Pair of Queens                High Card - Ace               Player 1\
+275  5D AS 8S 6S 4C                AH QC QD TH 7H                \
+     High Card - Ace               Pair of Queens                Player 2\
+276  3H 4H 7D 6S 4S                9H AS 8H JS 9D                \
+     Pair of Fours                 Pair of Nines                 Player 2\
+277  JD 8C 2C 9D 7D                5H 5S 9S JC KD                \
+     High Card - Jack              Pair of Fives                 Player 2\
+278  KD 9C 4S QD AH                7C AD 9D AC TD                \
+     High Card - Ace               Pair of Aces                  Player 2\
+279  6S 4H 4S 9C 8D                KS TC 9D JH 7C                \
+     Pair of Fours                 High Card - King              Player 1\
+280  5S JC 5H 4S QH                AC 2C JS 2S 9S                \
+     Pair of Fives                 Pair of Twos                  Player 1\
+281  8C 5H AS QD AD                5C 7D 8S QC TD                \
+     Pair of Aces                  High Card - Queen             Player 1\
+282  JC 4C 8D 5C KH                QS 4D 6H 2H 2C                \
+     High Card - King              Pair of Twos                  Player 2\
+283  TH 4S 2D KC 3H                QD AC 7H AD 9D                \
+     High Card - King              Pair of Aces                  Player 2\
+284  KH QD AS 8H TH                KC 8D 7S QH 8C                \
+     High Card - Ace               Pair of Eights                Player 2\
+285  JC 6C 7D 8C KH                AD QS 2H 6S 2D                \
+     High Card - King              Pair of Twos                  Player 2\
+286  JC KH 2D 7D JS                QC 5H 4C 5D AD                \
+     Pair of Jacks                 Pair of Fives                 Player 1\
+287  TS 3S AD 4S TD                2D TH 6S 9H JH                \
+     Pair of Tens                  High Card - Jack              Player 1\
+288  9H 2D QS 2C 4S                3D KH AS AC 9D                \
+     Pair of Twos                  Pair of Aces                  Player 2\
+289  KH 6S 8H 4S KD                7D 9D TS QD QC                \
+     Pair of Kings                 Pair of Queens                Player 1\
+290  JH 5H AH KS AS                AD JC QC 5S KH                \
+     Pair of Aces                  High Card - Ace               Player 1\
+291  5D 7D 6D KS KD                3D 7C 4D JD 3S                \
+     Pair of Kings                 Pair of Threes                Player 1\
+292  AC JS 8D 5H 9C                3H 4H 4D TS 2C                \
+     High Card - Ace               Pair of Fours                 Player 2\
+293  6H KS KH 9D 7C                2S 6S 8S 2H 3D                \
+     Pair of Kings                 Pair of Twos                  Player 1\
+294  6H AC JS 7S 3S                TD 8H 3H 4H TH                \
+     High Card - Ace               Pair of Tens                  Player 2\
+295  9H TC QC KC 5C                KS 6H 4H AC 8S                \
+     High Card - King              High Card - Ace               Player 2\
+296  TC 7D QH 4S JC                TS 6D 6C AC KH                \
+     High Card - Queen             Pair of Sixs                  Player 2\
+297  QH 7D 7C JH QS                QD TH 3H 5D KS                \
+     Pairs (Queen, Seven)          High Card - King              Player 1\
+298  3D 5S 8D JS 4C                2C KS 7H 9C 4H                \
+     High Card - Jack              High Card - King              Player 2\
+299  5H 8S 4H TD 2C                3S QD QC 3H KC                \
+     High Card - Ten               Pairs (Queen, Three)          Player 2\
+300  QC JS KD 9C AD                5S 9D 7D 7H TS                \
+     High Card - Ace               Pair of Sevens                Player 2\
+301  8C JC KH 7C 7S                6C TS 2C QD TH                \
+     Pair of Sevens                Pair of Tens                  Player 2\
+302  5S 9D TH 3C 7S                QH 8S 9C 2H 5H                \
+     High Card - Ten               High Card - Queen             Player 2\
+303  5D 9H 6H 2S JS                KH 3H 7C 2H 5S                \
+     High Card - Jack              High Card - King              Player 2\
+304  JD 5D 5S 2C TC                2S 6S 6C 3C 8S                \
+     Pair of Fives                 Pair of Sixs                  Player 2\
+305  4D KH 8H 4H 2D                KS 3H 5C 2S 9H                \
+     Pair of Fours                 High Card - King              Player 1\
+306  3S 2D TD 7H 8S                6H JD KC 9C 8D                \
+     High Card - Ten               High Card - King              Player 2\
+307  6S QD JH 7C 9H                5H 8S 8H TH TD                \
+     High Card - Queen             Pairs (Ten, Eight)            Player 2\
+308  QS 7S TD 7D TS                JC KD 7C 3C 2C                \
+     Pairs (Ten, Seven)            High Card - King              Player 1\
+309  3C JD 8S 4H 2D                2S TD AS 4D AC                \
+     High Card - Jack              Pair of Aces                  Player 2\
+310  AH KS 6C 4C 4S                7D 8C 9H 6H AS                \
+     Pair of Fours                 High Card - Ace               Player 1\
+311  5S 3C 9S 2C QS                KD 4D 4S AC 5D                \
+     High Card - Queen             Pair of Fours                 Player 2\
+312  2D TS 2C JS KH                QH 5D 8C AS KC                \
+     Pair of Twos                  High Card - Ace               Player 1\
+313  KD 3H 6C TH 8S                7S KH 6H 9S AC                \
+     High Card - King              High Card - Ace               Player 2\
+314  6H 7S 6C QS AH                2S 2H 4H 5D 5H                \
+     Pair of Sixs                  Pairs (Five, Two)             Player 2\
+315  5H JC QD 2C 2S                JD AS QC 6S 7D                \
+     Pair of Twos                  High Card - Ace               Player 1\
+316  6C TC AS KD 8H                9D 2C 7D JH 9S                \
+     High Card - Ace               Pair of Nines                 Player 2\
+317  2H 4C 6C AH 8S                TD 3H TH 7C TS                \
+     High Card - Ace               Three of a Kind (Tens)        Player 2\
+318  KD 4S TS 6C QH                8D 9D 9C AH 7D                \
+     High Card - King              Pair of Nines                 Player 2\
+319  6D JS 5C QD QC                9C 5D 8C 2H KD                \
+     Pair of Queens                High Card - King              Player 1\
+320  3C QH JH AD 6S                AH KC 8S 6D 6H                \
+     High Card - Ace               Pair of Sixs                  Player 2\
+321  3D 7C 4C 7S 5S                3S 6S 5H JC 3C                \
+     Pair of Sevens                Pair of Threes                Player 1\
+322  QH 7C 5H 3C 3S                8C TS 4C KD 9C                \
+     Pair of Threes                High Card - King              Player 1\
+323  QD 3S 7S 5H 7H                QH JC 7C 8C KD                \
+     Pair of Sevens                High Card - King              Player 1\
+324  3C KD KH 2S 4C                TS AC 6S 2C 7C                \
+     Pair of Kings                 High Card - Ace               Player 1\
+325  2C KH 3C 4C 6H                4D 5H 5S 7S QD                \
+     High Card - King              Pair of Fives                 Player 2\
+326  4D 7C 8S QD TS                9D KS 6H KD 3C                \
+     High Card - Queen             Pair of Kings                 Player 2\
+327  QS 4D TS 7S 4C                3H QD 8D 9S TC                \
+     Pair of Fours                 High Card - Queen             Player 1\
+328  TS QH AC 6S 3C                9H 9D QS 8S 6H                \
+     High Card - Ace               Pair of Nines                 Player 2\
+329  3S 7S 5D 4S JS                2D 6C QH 6S TH                \
+     High Card - Jack              Pair of Sixs                  Player 2\
+330  4C 4H AS JS 5D                3D TS 9C AC 8S                \
+     Pair of Fours                 High Card - Ace               Player 1\
+331  6S 9C 7C 3S 5C                QS AD AS 6H 3C                \
+     High Card - Nine              Pair of Aces                  Player 2\
+332  9S 8C 7H 3H 6S                7C AS 9H JD KH                \
+     High Card - Nine              High Card - Ace               Player 2\
+333  3D 3H 7S 4D 6C                7C AC 2H 9C TH                \
+     Pair of Threes                High Card - Ace               Player 1\
+334  4H 5S 3H AC TC                TH 9C 9H 9S 8D                \
+     High Card - Ace               Three of a Kind (Nines)       Player 2\
+335  8D 9H 5H 4D 6C                2H QD 6S 5D 3S                \
+     High Card - Nine              High Card - Queen             Player 2\
+336  4C 5C JD QS 4D                3H TH AC QH 8C                \
+     Pair of Fours                 High Card - Ace               Player 1\
+337  QC 5S 3C 7H AD                4C KS 4H JD 6D                \
+     High Card - Ace               Pair of Fours                 Player 2\
+338  QS AH 3H KS 9H                2S JS JH 5H 2H                \
+     High Card - Ace               Pairs (Jack, Two)             Player 2\
+339  2H 5S TH 6S TS                3S KS 3C 5H JS                \
+     Pair of Tens                  Pair of Threes                Player 1\
+340  2D 9S 7H 3D KC                JH 6D 7D JS TD                \
+     High Card - King              Pair of Jacks                 Player 2\
+341  AC JS 8H 2C 8C                JH JC 2D TH 7S                \
+     Pair of Eights                Pair of Jacks                 Player 2\
+342  5D 9S 8H 2H 3D                TC AH JC KD 9C                \
+     High Card - Nine              High Card - Ace               Player 2\
+343  9D QD JC 2H 6D                KH TS 9S QH TH                \
+     High Card - Queen             Pair of Tens                  Player 2\
+344  2C 8D 4S JD 5H                3H TH TC 9C KC                \
+     High Card - Jack              Pair of Tens                  Player 2\
+345  AS 3D 9H 7D 4D                TH KH 2H 7S 3H                \
+     High Card - Ace               High Card - King              Player 1\
+346  4H 7S KS 2S JS                TS 8S 2H QD 8D                \
+     High Card - King              Pair of Eights                Player 2\
+347  5S 6H JH KS 8H                2S QC AC 6S 3S                \
+     High Card - King              High Card - Ace               Player 2\
+348  JC AS AD QS 8H                6C KH 4C 4D QD                \
+     Pair of Aces                  Pair of Fours                 Player 1\
+349  2S 3D TS TD 9S                KS 6S QS 5C 8D                \
+     Pair of Tens                  High Card - King              Player 1\
+350  3C 6D 4S QC KC                JH QD TH KH AD                \
+     High Card - King              Straight                      Player 2\
+351  9H AH 4D KS 2S                8D JH JC 7C QS                \
+     High Card - Ace               Pair of Jacks                 Player 2\
+352  2D 6C TH 3C 8H                QD QH 2S 3S KS                \
+     High Card - Ten               Pair of Queens                Player 2\
+353  6H 5D 9S 4C TS                TD JS QD 9D JD                \
+     High Card - Ten               Pair of Jacks                 Player 2\
+354  5H 8H KH 8S KS                7C TD AD 4S KD                \
+     Pairs (King, Eight)           High Card - Ace               Player 1\
+355  2C 7C JC 5S AS                6C 7D 8S 5H 9C                \
+     High Card - Ace               Straight                      Player 2\
+356  6S QD 9S TS KH                QS 5S QH 3C KC                \
+     High Card - King              Pair of Queens                Player 2\
+357  7D 3H 3C KD 5C                AS JH 7H 6H JD                \
+     Pair of Threes                Pair of Jacks                 Player 2\
+358  9D 5C 9H KC 8H                KS 4S AD 4D 2S                \
+     Pair of Nines                 Pair of Fours                 Player 1\
+359  3S JD QD 8D 2S                7C 5S 6S 5H TS                \
+     High Card - Queen             Pair of Fives                 Player 2\
+360  6D 9S KC TD 3S                6H QD JD 5C 8D                \
+     High Card - King              High Card - Queen             Player 1\
+361  5H 9D TS KD 8D                6H TD QC 4C 7D                \
+     High Card - King              High Card - Queen             Player 1\
+362  6D 4S JD 9D AH                9S AS TD 9H QD                \
+     High Card - Ace               Pair of Nines                 Player 2\
+363  2D 5S 2H 9C 6H                9S TD QC 7D TC                \
+     Pair of Twos                  Pair of Tens                  Player 2\
+364  3S 2H KS TS 2C                9C 8S JS 9D 7D                \
+     Pair of Twos                  Pair of Nines                 Player 2\
+365  3C KC 6D 5D 6C                6H 8S AS 7S QS                \
+     Pair of Sixs                  High Card - Ace               Player 1\
+366  JH 9S 2H 8D 4C                8H 9H AD TH KH                \
+     High Card - Jack              High Card - Ace               Player 2\
+367  QC AS 2S JS 5C                6H KD 3H 7H 2C                \
+     High Card - Ace               High Card - King              Player 1\
+368  QD 8H 2S 8D 3S                6D AH 2C TC 5C                \
+     Pair of Eights                High Card - Ace               Player 1\
+369  JD JS TS 8S 3H                5D TD KC JC 6H                \
+     Pair of Jacks                 High Card - King              Player 1\
+370  6S QS TC 3H 5D                AH JC 7C 7D 4H                \
+     High Card - Queen             Pair of Sevens                Player 2\
+371  7C 5D 8H 9C 2H                9H JH KH 5S 2C                \
+     High Card - Nine              High Card - King              Player 2\
+372  9C 7H 6S TH 3S                QC QD 4C AC JD                \
+     High Card - Ten               Pair of Queens                Player 2\
+373  2H 5D 9S 7D KC                3S QS 2D AS KH                \
+     High Card - King              High Card - Ace               Player 2\
+374  2S 4S 2H 7D 5C                TD TH QH 9S 4D                \
+     Pair of Twos                  Pair of Tens                  Player 2\
+375  6D 3S TS 6H 4H                KS 9D 8H 5S 2D                \
+     Pair of Sixs                  High Card - King              Player 1\
+376  9H KS 4H 3S 5C                5D KH 6H 6S JS                \
+     High Card - King              Pair of Sixs                  Player 2\
+377  KC AS 8C 4C JC                KH QC TH QD AH                \
+     High Card - Ace               Pair of Queens                Player 2\
+378  6S KH 9S 2C 5H                TC 3C 7H JC 4D                \
+     High Card - King              High Card - Jack              Player 1\
+379  JD 4S 6S 5S 8D                7H 7S 4D 4C 2H                \
+     High Card - Jack              Pairs (Seven, Four)           Player 2\
+380  7H 9H 5D KH 9C                7C TS TC 7S 5H                \
+     Pair of Nines                 Pairs (Ten, Seven)            Player 2\
+381  4C 8D QC TS 4S                9H 3D AD JS 7C                \
+     Pair of Fours                 High Card - Ace               Player 1\
+382  8C QS 5C 5D 3H                JS AH KC 4S 9D                \
+     Pair of Fives                 High Card - Ace               Player 1\
+383  TS JD 8S QS TH                JH KH 2D QD JS                \
+     Pair of Tens                  Pair of Jacks                 Player 2\
+384  JD QC 5D 6S 9H                3S 2C 8H 9S TS                \
+     High Card - Queen             High Card - Ten               Player 1\
+385  2S 4C AD 7H JC                5C 2D 6D 4H 3D                \
+     High Card - Ace               Straight                      Player 2\
+386  7S JS 2C 4H 8C                AD QD 9C 3S TD                \
+     High Card - Jack              High Card - Ace               Player 2\
+387  JD TS 4C 6H 9H                7D QD 6D 3C AS                \
+     High Card - Jack              High Card - Ace               Player 2\
+388  AS 7C 4C 6S 5D                5S 5C JS QC 4S                \
+     High Card - Ace               Pair of Fives                 Player 2\
+389  KD 6S 9S 7C 3C                5S 7D JH QD JS                \
+     High Card - King              Pair of Jacks                 Player 2\
+390  4S 7S JH 2C 8S                5D 7H 3D QH AD                \
+     High Card - Jack              High Card - Ace               Player 2\
+391  TD 6H 2H 8D 4H                2D 7C AD KH 5D                \
+     High Card - Ten               High Card - Ace               Player 2\
+392  TS 3S 5H 2C QD                AH 2S 5C KH TD                \
+     High Card - Queen             High Card - Ace               Player 2\
+393  KC 4D 8C 5D AS                6C 2H 2S 9H 7C                \
+     High Card - Ace               Pair of Twos                  Player 2\
+394  KD JS QC TS QS                KH JH 2C 5D AD                \
+     Pair of Queens                High Card - Ace               Player 1\
+395  3S 5H KC 6C 9H                3H 2H AD 7D 7S                \
+     High Card - King              Pair of Sevens                Player 2\
+396  7S JS JH KD 8S                7D 2S 9H 7C 2H                \
+     Pair of Jacks                 Pairs (Seven, Two)            Player 2\
+397  9H 2D 8D QC 6S                AD AS 8H 5H 6C                \
+     High Card - Queen             Pair of Aces                  Player 2\
+398  2S 7H 6C 6D 7D                8C 5D 9D JC 3C                \
+     Pairs (Seven, Six)            High Card - Jack              Player 1\
+399  7C 9C 7H JD 2H                KD 3S KH AD 4S                \
+     Pair of Sevens                Pair of Kings                 Player 2\
+400  QH AS 9H 4D JD                KS KD TS KH 5H                \
+     High Card - Ace               Three of a Kind (Kings)       Player 2\
+401  4C 8H 5S 3S 3D                7D TD AD 7S KC                \
+     Pair of Threes                Pair of Sevens                Player 2\
+402  JS 8S 5S JC 8H                TH 9C 4D 5D KC                \
+     Pairs (Jack, Eight)           High Card - King              Player 1\
+403  7C 5S 9C QD 2C                QH JS 5H 8D KH                \
+     High Card - Queen             High Card - King              Player 2\
+404  TD 2S KS 3D AD                KC 7S TC 3C 5D                \
+     High Card - Ace               High Card - King              Player 1\
+405  4C 2S AD QS 6C                9S QD TH QH 5C                \
+     High Card - Ace               Pair of Queens                Player 2\
+406  8C AD QS 2D 2S                KC JD KS 6C JC                \
+     Pair of Twos                  Pairs (King, Jack)            Player 2\
+407  8D 4D JS 2H 5D                QD 7S 7D QH TS                \
+     High Card - Jack              Pairs (Queen, Seven)          Player 2\
+408  6S 7H 3S 8C 8S                9D QS 8H 6C 9S                \
+     Pair of Eights                Pair of Nines                 Player 2\
+409  4S TC 2S 5C QD                4D QS 6D TH 6S                \
+     High Card - Queen             Pair of Sixs                  Player 2\
+410  3S 5C 9D 6H 8D                4C 7D TC 7C TD                \
+     High Card - Nine              Pairs (Ten, Seven)            Player 2\
+411  AH 6S AS 7H 5S                KD 3H 5H AC 4C                \
+     Pair of Aces                  High Card - Ace               Player 1\
+412  8D 8S AH KS QS                2C AD 6H 7D 5D                \
+     Pair of Eights                High Card - Ace               Player 1\
+413  6H 9H 9S 2H QS                8S 9C 5D 2D KD                \
+     Pair of Nines                 High Card - King              Player 1\
+414  TS QC 5S JH 7D                7S TH 9S 9H AC                \
+     High Card - Queen             Pair of Nines                 Player 2\
+415  7H 3H 6S KC 4D                6D 5C 4S QD TS                \
+     High Card - King              High Card - Queen             Player 1\
+416  TD 2S 7C QD 3H                JH 9D 4H 7S 7H                \
+     High Card - Queen             Pair of Sevens                Player 2\
+417  KS 3D 4H 5H TC                2S AS 2D 6D 7D                \
+     High Card - King              Pair of Twos                  Player 2\
+418  8H 3C 7H TD 3H                AD KC TH 9C KH                \
+     Pair of Threes                Pair of Kings                 Player 2\
+419  TC 4C 2C 9S 9D                9C 5C 2H JD 3C                \
+     Pair of Nines                 High Card - Jack              Player 1\
+420  3H AC TS 5D AD                8D 6H QC 6S 8C                \
+     Pair of Aces                  Pairs (Eight, Six)            Player 2\
+421  2S TS 3S JD 7H                8S QH 4C 5S 8D                \
+     High Card - Jack              Pair of Eights                Player 2\
+422  AC 4S 6C 3C KH                3D 7C 2D 8S 2H                \
+     High Card - Ace               Pair of Twos                  Player 2\
+423  4H 6C 8S TH 2H                4S 8H 9S 3H 7S                \
+     High Card - Ten               High Card - Nine              Player 1\
+424  7C 4C 9C 2C 5C                AS 5D KD 4D QH                \
+     Flush                         High Card - Ace               Player 1\
+425  9H 4H TS AS 7D                8D 5D 9S 8C 2H                \
+     High Card - Ace               Pair of Eights                Player 2\
+426  QC KD AC AD 2H                7S AS 3S 2D 9S                \
+     Pair of Aces                  High Card - Ace               Player 1\
+427  2H QC 8H TC 6D                QD QS 5D KH 3C                \
+     High Card - Queen             Pair of Queens                Player 2\
+428  TH JD QS 4C 2S                5S AD 7H 3S AS                \
+     High Card - Queen             Pair of Aces                  Player 2\
+429  7H JS 3D 6C 3S                6D AS 9S AC QS                \
+     Pair of Threes                Pair of Aces                  Player 2\
+430  9C TS AS 8C TC                8S 6H 9D 8D 6C                \
+     Pair of Tens                  Pairs (Eight, Six)            Player 2\
+431  4D JD 9C KC 7C                6D KS 3S 8C AS                \
+     High Card - King              High Card - Ace               Player 2\
+432  3H 6S TC 8D TS                3S KC 9S 7C AS                \
+     Pair of Tens                  High Card - Ace               Player 1\
+433  8C QC 4H 4S 8S                6C 3S TC AH AC                \
+     Pairs (Eight, Four)           Pair of Aces                  Player 1\
+434  4D 7D 5C AS 2H                6S TS QC AD TC                \
+     High Card - Ace               Pair of Tens                  Player 2\
+435  QD QC 8S 4S TH                3D AH TS JH 4H                \
+     Pair of Queens                High Card - Ace               Player 1\
+436  5C 2D 9S 2C 3H                3C 9D QD QH 7D                \
+     Pair of Twos                  Pair of Queens                Player 2\
+437  KC 9H 6C KD 7S                3C 4D AS TC 2D                \
+     Pair of Kings                 High Card - Ace               Player 1\
+438  3D JS 4D 9D KS                7D TH QC 3H 3C                \
+     High Card - King              Pair of Threes                Player 2\
+439  8D 5S 2H 9D 3H                8C 4C 4H 3C TH                \
+     High Card - Nine              Pair of Fours                 Player 2\
+440  JC TH 4S 6S JD                2D 4D 6C 3D 4C                \
+     Pair of Jacks                 Pair of Fours                 Player 1\
+441  TS 3S 2D 4H AC                2C 6S 2H JH 6H                \
+     High Card - Ace               Pairs (Six, Two)              Player 2\
+442  TD 8S AD TC AH                AC JH 9S 6S 7S                \
+     Pairs (Ace, Ten)              High Card - Ace               Player 1\
+443  6C KC 4S JD 8D                9H 5S 7H QH AH                \
+     High Card - King              High Card - Ace               Player 2\
+444  KD 8D TS JH 5C                5H 3H AD AS JS                \
+     High Card - King              Pair of Aces                  Player 2\
+445  2D 4H 3D 6C 8C                7S AD 5D 5C 8S                \
+     High Card - Eight             Pair of Fives                 Player 2\
+446  TD 5D 7S 9C 4S                5H 6C 8C 4C 8S                \
+     High Card - Ten               Pair of Eights                Player 2\
+447  JS QH 9C AS 5C                QS JC 3D QC 7C                \
+     High Card - Ace               Pair of Queens                Player 2\
+448  JC 9C KH JH QS                QC 2C TS 3D AD                \
+     Pair of Jacks                 High Card - Ace               Player 1\
+449  5D JH AC 5C 9S                TS 4C JD 8C KS                \
+     Pair of Fives                 High Card - King              Player 1\
+450  KC AS 2D KH 9H                2C 5S 4D 3D 6H                \
+     Pair of Kings                 Straight                      Player 2\
+451  TH AH 2D 8S JC                3D 8C QH 7S 3S                \
+     High Card - Ace               Pair of Threes                Player 2\
+452  8H QD 4H JC AS                KH KS 3C 9S 6D                \
+     High Card - Ace               Pair of Kings                 Player 2\
+453  9S QH 7D 9C 4S                AC 7H KH 4D KD                \
+     Pair of Nines                 Pair of Kings                 Player 2\
+454  AH AD TH 6D 9C                9S KD KS QH 4H                \
+     Pair of Aces                  Pair of Kings                 Player 1\
+455  QD 6H 9C 7C QS                6D 6S 9D 5S JH                \
+     Pair of Queens                Pair of Sixs                  Player 1\
+456  AH 8D 5H QD 2H                JC KS 4H KH 5S                \
+     High Card - Ace               Pair of Kings                 Player 2\
+457  5C 2S JS 8D 9C                8C 3D AS KC AH                \
+     High Card - Jack              Pair of Aces                  Player 2\
+458  JD 9S 2H QS 8H                5S 8C TH 5C 4C                \
+     High Card - Queen             Pair of Fives                 Player 2\
+459  QC QS 8C 2S 2C                3S 9C 4C KS KH                \
+     Pairs (Queen, Two)            Pair of Kings                 Player 1\
+460  2D 5D 8S AH AD                TD 2C JS KS 8C                \
+     Pair of Aces                  High Card - King              Player 1\
+461  TC 5S 5H 8H QC                9H 6H JD 4H 9S                \
+     Pair of Fives                 Pair of Nines                 Player 2\
+462  3C JH 4H 9H AH                4S 2H 4C 8D AC                \
+     High Card - Ace               Pair of Fours                 Player 2\
+463  8S TH 4D 7D 6D                QD QS 7S TC 7C                \
+     High Card - Ten               Pairs (Queen, Seven)          Player 2\
+464  KH 6D 2D JD 5H                JS QD JH 4H 4S                \
+     High Card - King              Pairs (Jack, Four)            Player 2\
+465  9C 7S JH 4S 3S                TS QC 8C TC 4H                \
+     High Card - Jack              Pair of Tens                  Player 2\
+466  QH 9D 4D JH QS                3S 2C 7C 6C 2D                \
+     Pair of Queens                Pair of Twos                  Player 1\
+467  4H 9S JD 5C 5H                AH 9D TS 2D 4C                \
+     Pair of Fives                 High Card - Ace               Player 1\
+468  KS JH TS 5D 2D                AH JS 7H AS 8D                \
+     High Card - King              Pair of Aces                  Player 2\
+469  JS AH 8C AD KS                5S 8H 2C 6C TH                \
+     Pair of Aces                  High Card - Ten               Player 1\
+470  2H 5D AD AC KS                3D 8H TS 6H QC                \
+     Pair of Aces                  High Card - Queen             Player 1\
+471  6D 4H TS 9C 5H                JS JH 6S JD 4C                \
+     High Card - Ten               Three of a Kind (Jacks)       Player 2\
+472  JH QH 4H 2C 6D                3C 5D 4C QS KC                \
+     High Card - Queen             High Card - King              Player 2\
+473  6H 4H 6C 7H 6S                2S 8S KH QC 8C                \
+     Three of a Kind (Sixs)        Pair of Eights                Player 1\
+474  3H 3D 5D KS 4H                TD AD 3S 4D TS                \
+     Pair of Threes                Pair of Tens                  Player 2\
+475  5S 7C 8S 7D 2C                KS 7S 6C 8C JS                \
+     Pair of Sevens                High Card - King              Player 1\
+476  5D 2H 3S 7C 5C                QD 5H 6D 9C 9H                \
+     Pair of Fives                 Pair of Nines                 Player 2\
+477  JS 2S KD 9S 8D                TD TS AC 8C 9D                \
+     High Card - King              Pair of Tens                  Player 2\
+478  5H QD 2S AC 8C                9H KS 7C 4S 3C                \
+     High Card - Ace               High Card - King              Player 1\
+479  KH AS 3H 8S 9C                JS QS 4S AD 4D                \
+     High Card - Ace               Pair of Fours                 Player 2\
+480  AS 2S TD AD 4D                9H JC 4C 5H QS                \
+     Pair of Aces                  High Card - Queen             Player 1\
+481  5D 7C 4H TC 2D                6C JS 4S KC 3S                \
+     High Card - Ten               High Card - King              Player 2\
+482  4C 2C 5D AC 9H                3D JD 8S QS QH                \
+     High Card - Ace               Pair of Queens                Player 2\
+483  2C 8S 6H 3C QH                6D TC KD AC AH                \
+     High Card - Queen             Pair of Aces                  Player 2\
+484  QC 6C 3S QS 4S                AC 8D 5C AD KH                \
+     Pair of Queens                Pair of Aces                  Player 2\
+485  5S 4C AC KH AS                QC 2C 5C 8D 9C                \
+     Pair of Aces                  High Card - Queen             Player 1\
+486  8H JD 3C KH 8D                5C 9C QD QH 9D                \
+     Pair of Eights                Pairs (Queen, Nine)           Player 2\
+487  7H TS 2C 8C 4S                TD JC 9C 5H QH                \
+     High Card - Ten               High Card - Queen             Player 2\
+488  JS 4S 2C 7C TH                6C AS KS 7S JD                \
+     High Card - Jack              High Card - Ace               Player 2\
+489  JH 7C 9H 7H TC                5H 3D 6D 5D 4D                \
+     Pair of Sevens                Pair of Fives                 Player 1\
+490  2C QD JH 2H 9D                5S 3D TD AD KS                \
+     Pair of Twos                  High Card - Ace               Player 1\
+491  JD QH 3S 4D TH                7D 6S QS KS 4H                \
+     High Card - Queen             High Card - King              Player 2\
+492  TC KS 5S 8D 8H                AD 2S 2D 4C JH                \
+     Pair of Eights                Pair of Twos                  Player 1\
+493  5S JH TC 3S 2D                QS 9D 4C KD 9S                \
+     High Card - Jack              Pair of Nines                 Player 2\
+494  AC KH 3H AS 9D                KC 9H QD 6C 6S                \
+     Pair of Aces                  Pair of Sixs                  Player 1\
+495  9H 7S 3D 5C 7D                KC TD 8H 4H 6S                \
+     Pair of Sevens                High Card - King              Player 1\
+496  3C 7H 8H TC QD                4D 7S 6S QH 6C                \
+     High Card - Queen             Pair of Sixs                  Player 2\
+497  6D AD 4C QD 6C                5D 7D 9D KS TS                \
+     Pair of Sixs                  High Card - King              Player 1\
+498  JH 2H JD 9S 7S                TS KH 8D 5D 8H                \
+     Pair of Jacks                 Pair of Eights                Player 1\
+499  2D 9S 4C 7D 9D                5H QD 6D AC 6S                \
+     Pair of Nines                 Pair of Sixs                  Player 1\
+500  7S 6D JC QD JH                4C 6S QS 2H 7D                \
+     Pair of Jacks                 High Card - Queen             Player 1\
+501  8C TD JH KD 2H                5C QS 2C JS 7S                \
+     High Card - King              High Card - Queen             Player 1\
+502  TC 5H 4H JH QD                3S 5S 5D 8S KH                \
+     High Card - Queen             Pair of Fives                 Player 2\
+503  KS KH 7C 2C 5D                JH 6S 9C 6D JC                \
+     Pair of Kings                 Pairs (Jack, Six)             Player 2\
+504  5H AH JD 9C JS                KC 2H 6H 4D 5S                \
+     Pair of Jacks                 High Card - King              Player 1\
+505  AS 3C TH QC 6H                9C 8S 8C TD 7C                \
+     High Card - Ace               Pair of Eights                Player 2\
+506  KC 2C QD 9C KH                4D 7S 3C TS 9H                \
+     Pair of Kings                 High Card - Ten               Player 1\
+507  9C QC 2S TS 8C                TD 9S QD 3S 3C                \
+     High Card - Queen             Pair of Threes                Player 2\
+508  4D 9D TH JH AH                6S 2S JD QH JS                \
+     High Card - Ace               Pair of Jacks                 Player 2\
+509  QD 9H 6C KD 7D                7H 5D 6S 8H AH                \
+     High Card - King              High Card - Ace               Player 2\
+510  8H 3C 4S 2H 5H                QS QH 7S 4H AC                \
+     High Card - Eight             Pair of Queens                Player 2\
+511  QS 3C 7S 9S 4H                3S AH KS 9D 7C                \
+     High Card - Queen             High Card - Ace               Player 2\
+512  AD 5S 6S 2H 2D                5H TC 4S 3C 8C                \
+     Pair of Twos                  High Card - Ten               Player 1\
+513  QH TS 6S 4D JS                KS JH AS 8S 6D                \
+     High Card - Queen             High Card - Ace               Player 2\
+514  2C 8S 2S TD 5H                AS TC TS 6C KC                \
+     Pair of Twos                  Pair of Tens                  Player 2\
+515  KC TS 8H 2H 3H                7C 4C 5S TH TD                \
+     High Card - King              Pair of Tens                  Player 2\
+516  KD AD KH 7H 7S                5D 5H 5S 2D 9C                \
+     Pairs (King, Seven)           Three of a Kind (Fives)       Player 2\
+517  AD 9S 3D 7S 8C                QC 7C 9C KD KS                \
+     High Card - Ace               Pair of Kings                 Player 2\
+518  3C QC 9S 8C 4D                5C AS QD 6C 2C                \
+     High Card - Queen             High Card - Ace               Player 2\
+519  2H KC 8S JD 7S                AC 8D 5C 2S 4D                \
+     High Card - King              High Card - Ace               Player 2\
+520  9D QH 3D 2S TC                3S KS 3C 9H TD                \
+     High Card - Queen             Pair of Threes                Player 2\
+521  KD 6S AC 2C 7H                5H 3S 6C 6H 8C                \
+     High Card - Ace               Pair of Sixs                  Player 2\
+522  QH TC 8S 6S KH                TH 4H 5D TS 4D                \
+     High Card - King              Pairs (Ten, Four)             Player 2\
+523  8C JS 4H 6H 2C                2H 7D AC QD 3D                \
+     High Card - Jack              High Card - Ace               Player 2\
+524  QS KC 6S 2D 5S                4H TD 3H JH 4C                \
+     High Card - King              Pair of Fours                 Player 2\
+525  7S 5H 7H 8H KH                6H QS TH KD 7D                \
+     Pair of Sevens                High Card - King              Player 1\
+526  5H AD KD 7C KH                5S TD 6D 3C 6C                \
+     Pair of Kings                 Pair of Sixs                  Player 1\
+527  8C 9C 5H JD 7C                KC KH 7H 2H 3S                \
+     High Card - Jack              Pair of Kings                 Player 2\
+528  7S 4H AD 4D 8S                QS TH 3D 7H 5S                \
+     Pair of Fours                 High Card - Queen             Player 1\
+529  8D TC KS KD 9S                6D AD JD 5C 2S                \
+     Pair of Kings                 High Card - Ace               Player 1\
+530  7H 8H 6C QD 2H                6H 9D TC 9S 7C                \
+     High Card - Queen             Pair of Nines                 Player 2\
+531  8D 6D 4C 7C 6C                3C TH KH JS JH                \
+     Pair of Sixs                  Pair of Jacks                 Player 2\
+532  5S 3S 8S JS 9H                AS AD 8H 7S KD                \
+     High Card - Jack              Pair of Aces                  Player 2\
+533  JH 7C 2C KC 5H                AS AD 9C 9S JS                \
+     High Card - King              Pairs (Ace, Nine)             Player 2\
+534  AD AC 2C 6S QD                7C 3H TH KS KD                \
+     Pair of Aces                  Pair of Kings                 Player 1\
+535  9D JD 4H 8H 4C                KH 7S TS 8C KC                \
+     Pair of Fours                 Pair of Kings                 Player 2\
+536  3S 5S 2H 7S 6H                7D KS 5C 6D AD                \
+     High Card - Seven             High Card - Ace               Player 2\
+537  5S 8C 9H QS 7H                7S 2H 6C 7D TD                \
+     High Card - Queen             Pair of Sevens                Player 2\
+538  QS 5S TD AC 9D                KC 3D TC 2D 4D                \
+     High Card - Ace               High Card - King              Player 1\
+539  TD 2H 7D JD QD                4C 7H 5D KC 3D                \
+     High Card - Queen             High Card - King              Player 2\
+540  4C 3H 8S KD QH                5S QC 9H TC 5H                \
+     High Card - King              Pair of Fives                 Player 2\
+541  9C QD TH 5H TS                5C 9H AH QH 2C                \
+     Pair of Tens                  High Card - Ace               Player 1\
+542  4D 6S 3C AC 6C                3D 2C 2H TD TH                \
+     Pair of Sixs                  Pairs (Ten, Two)              Player 2\
+543  AC 9C 5D QC 4D                AD 8D 6D 8C KC                \
+     High Card - Ace               Pair of Eights                Player 2\
+544  AD 3C 4H AC 8D                8H 7S 9S TD JC                \
+     Pair of Aces                  Straight                      Player 2\
+545  4H 9H QH JS 2D                TH TD TC KD KS                \
+     High Card - Queen             Full House with 3 Tens        Player 2\
+546  5S 6S 9S 8D TH                AS KH 5H 5C 8S                \
+     High Card - Ten               Pair of Fives                 Player 2\
+547  JD 2S 9S 6S 5S                8S 5D 7S 7H 9D                \
+     High Card - Jack              Pair of Sevens                Player 2\
+548  5D 8C 4C 9D AD                TS 2C 7D KD TC                \
+     High Card - Ace               Pair of Tens                  Player 2\
+549  8S QS 4D KC 5C                8D 4S KH JD KD                \
+     High Card - King              Pair of Kings                 Player 2\
+550  AS 5C AD QH 7D                2H 9S 7H 7C TC                \
+     Pair of Aces                  Pair of Sevens                Player 1\
+551  2S 8S JD KH 7S                6C 6D AD 5D QC                \
+     High Card - King              Pair of Sixs                  Player 2\
+552  9H 6H 3S 8C 8H                AH TC 4H JS TD                \
+     Pair of Eights                Pair of Tens                  Player 2\
+553  2C TS 4D 7H 2D                QC 9C 5D TH 7C                \
+     Pair of Twos                  High Card - Queen             Player 1\
+554  6C 8H QC 5D TS                JH 5C 5H 9H 4S                \
+     High Card - Queen             Pair of Fives                 Player 2\
+555  2D QC 7H AS JS                8S 2H 4C 4H 8D                \
+     High Card - Ace               Pairs (Eight, Four)           Player 2\
+556  JS 6S AC KD 3D                3C 4S 7H TH KC                \
+     High Card - Ace               High Card - King              Player 1\
+557  QH KH 6S QS 5S                4H 3C QD 3S 3H                \
+     Pair of Queens                Three of a Kind (Threes)      Player 2\
+558  7H AS KH 8C 4H                9C 5S 3D 6S TS                \
+     High Card - Ace               High Card - Ten               Player 1\
+559  9C 7C 3H 5S QD                2C 3D AD AC 5H                \
+     High Card - Queen             Pair of Aces                  Player 2\
+560  JH TD 2D 4C TS                3H KH AD 3S 7S                \
+     Pair of Tens                  Pair of Threes                Player 1\
+561  AS 4C 5H 4D 6S                KD JC 3C 6H 2D                \
+     Pair of Fours                 High Card - King              Player 1\
+562  3H 6S 8C 2D TH                4S AH QH AD 5H                \
+     High Card - Ten               Pair of Aces                  Player 2\
+563  7C 2S 9H 7H KC                5C 6D 5S 3H JC                \
+     Pair of Sevens                Pair of Fives                 Player 1\
+564  3C TC 9C 4H QD                TD JH 6D 9H 5S                \
+     High Card - Queen             High Card - Jack              Player 1\
+565  7C 6S 5C 5D 6C                4S 7H 9H 6H AH                \
+     Pairs (Six, Five)             High Card - Ace               Player 1\
+566  AD 2H 7D KC 2C                4C 2S 9S 7H 3S                \
+     Pair of Twos                  High Card - Nine              Player 1\
+567  TH 4C 8S 6S 3S                AD KS AS JH TD                \
+     High Card - Ten               Pair of Aces                  Player 2\
+568  5C TD 4S 4D AD                6S 5D TC 9C 7D                \
+     Pair of Fours                 High Card - Ten               Player 1\
+569  8H 3S 4D 4S 5S                6H 5C AC 3H 3D                \
+     Pair of Fours                 Pair of Threes                Player 1\
+570  9H 3C AC 4S QS                8S 9D QH 5H 4D                \
+     High Card - Ace               High Card - Queen             Player 1\
+571  JC 6C 5H TS AC                9C JD 8C 7C QD                \
+     High Card - Ace               High Card - Queen             Player 1\
+572  8S 8H 9C JD 2D                QC QH 6H 3C 8D                \
+     Pair of Eights                Pair of Queens                Player 2\
+573  KS JS 2H 6H 5H                QH QS 3H 7C 6D                \
+     High Card - King              Pair of Queens                Player 2\
+574  TC 3H 4S 7H QC                2H 3S 8C JS KH                \
+     High Card - Queen             High Card - King              Player 2\
+575  AH 8H 5S 4C 9H                JD 3H 7S JC AC                \
+     High Card - Ace               Pair of Jacks                 Player 2\
+576  3C 2D 4C 5S 6C                4S QS 3S JD 3D                \
+     Straight                      Pair of Threes                Player 1\
+577  5H 2D TC AH KS                6D 7H AD 8C 6H                \
+     High Card - Ace               Pair of Sixs                  Player 2\
+578  6C 7S 3C JD 7C                8H KS KH AH 6D                \
+     Pair of Sevens                Pair of Kings                 Player 2\
+579  AH 7D 3H 8H 8S                7H QS 5H 9D 2D                \
+     Pair of Eights                High Card - Queen             Player 1\
+580  JD AC 4H 7S 8S                9S KS AS 9D QH                \
+     High Card - Ace               Pair of Nines                 Player 2\
+581  7S 2C 8S 5S JH                QS JC AH KD 4C                \
+     High Card - Jack              High Card - Ace               Player 2\
+582  AH 2S 9H 4H 8D                TS TD 6H QH JD                \
+     High Card - Ace               Pair of Tens                  Player 2\
+583  4H JC 3H QS 6D                7S 9C 8S 9D 8D                \
+     High Card - Queen             Pairs (Nine, Eight)           Player 2\
+584  5H TD 4S 9S 4C                8C 8D 7H 3H 3D                \
+     Pair of Fours                 Pairs (Eight, Three)          Player 2\
+585  QS KH 3S 2C 2S                3C 7S TD 4S QD                \
+     Pair of Twos                  High Card - Queen             Player 1\
+586  7C TD 4D 5S KH                AC AS 7H 4C 6C                \
+     High Card - King              Pair of Aces                  Player 2\
+587  2S 5H 6D JD 9H                QS 8S 2C 2H TD                \
+     High Card - Jack              Pair of Twos                  Player 2\
+588  2S TS 6H 9H 7S                4H JC 4C 5D 5S                \
+     High Card - Ten               Pairs (Five, Four)            Player 2\
+589  2C 5H 7D 4H 3S                QH JC JS 6D 8H                \
+     High Card - Seven             Pair of Jacks                 Player 2\
+590  4C QH 7C QD 3S                AD TH 8S 5S TS                \
+     Pair of Queens                Pair of Tens                  Player 1\
+591  9H TC 2S TD JC                7D 3S 3D TH QH                \
+     Pair of Tens                  Pair of Threes                Player 1\
+592  7D 4C 8S 5C JH                8H 6S 3S KC 3H                \
+     High Card - Jack              Pair of Threes                Player 2\
+593  JC 3H KH TC QH                TH 6H 2C AC 5H                \
+     High Card - King              High Card - Ace               Player 2\
+594  QS 2H 9D 2C AS                6S 6C 2S 8C 8S                \
+     Pair of Twos                  Pairs (Eight, Six)            Player 2\
+595  9H 7D QC TH 4H                KD QS AC 7S 3C                \
+     High Card - Queen             High Card - Ace               Player 2\
+596  4D JH 6S 5S 8H                KS 9S QC 3S AS                \
+     High Card - Jack              High Card - Ace               Player 2\
+597  JD 2D 6S 7S TC                9H KC 3H 7D KD                \
+     High Card - Jack              Pair of Kings                 Player 2\
+598  2H KH 7C 4D 4S                3H JS QD 7D KC                \
+     Pair of Fours                 High Card - King              Player 1\
+599  4C JC AS 9D 3C                JS 6C 8H QD 4D                \
+     High Card - Ace               High Card - Queen             Player 1\
+600  AH JS 3S 6C 4C                3D JH 6D 9C 9H                \
+     High Card - Ace               Pair of Nines                 Player 2\
+601  9H 2D 8C 7H 5S                KS 6H 9C 2S TC                \
+     High Card - Nine              High Card - King              Player 2\
+602  6C 8C AD 7H 6H                3D KH AS 5D TH                \
+     Pair of Sixs                  High Card - Ace               Player 1\
+603  KS 8C 3S TS 8S                4D 5S 9S 6C 4H                \
+     Pair of Eights                Pair of Fours                 Player 1\
+604  9H 4S 4H 5C 7D                KC 2D 2H 9D JH                \
+     Pair of Fours                 Pair of Twos                  Player 1\
+605  5C JS TC 9D 9H                5H 7S KH JC 6S                \
+     Pair of Nines                 High Card - King              Player 1\
+606  7C 9H 8H 4D JC                KH JD 2H TD TC                \
+     High Card - Jack              Pair of Tens                  Player 2\
+607  8H 6C 2H 2C KH                6H 9D QS QH 5H                \
+     Pair of Twos                  Pair of Queens                Player 2\
+608  AC 7D 2S 3D QD                JC 2D 8D JD JH                \
+     High Card - Ace               Three of a Kind (Jacks)       Player 2\
+609  2H JC 2D 7H 2C                3C 8D KD TD 4H                \
+     Three of a Kind (Twos)        High Card - King              Player 1\
+610  3S 4H 6D 8D TS                3H TD 3D 6H TH                \
+     High Card - Ten               Pairs (Ten, Three)            Player 2\
+611  JH JC 3S AC QH                9H 7H 8S QC 2C                \
+     Pair of Jacks                 High Card - Queen             Player 1\
+612  7H TD QS 4S 8S                9C 2S 5D 4D 2H                \
+     High Card - Queen             Pair of Twos                  Player 2\
+613  3D TS 3H 2S QC                8H 6H KC JC KS                \
+     Pair of Threes                Pair of Kings                 Player 2\
+614  5D JD 7D TC 8C                6C 9S 3D 8D AC                \
+     High Card - Jack              High Card - Ace               Player 2\
+615  8H 6H JH 6C 5D                8D 8S 4H AD 2C                \
+     Pair of Sixs                  Pair of Eights                Player 2\
+616  9D 4H 2D 2C 3S                TS AS TC 3C 5D                \
+     Pair of Twos                  Pair of Tens                  Player 2\
+617  4D TH 5H KS QS                6C 4S 2H 3D AD                \
+     High Card - King              High Card - Ace               Player 2\
+618  5C KC 6H 2C 5S                3C 4D 2D 9H 9S                \
+     Pair of Fives                 Pair of Nines                 Player 2\
+619  JD 4C 3H TH QH                9H 5S AH 8S AC                \
+     High Card - Queen             Pair of Aces                  Player 2\
+620  7D 9S 6S 2H TD                9C 4H 8H QS 4C                \
+     High Card - Ten               Pair of Fours                 Player 2\
+621  3C 6H 5D 4H 8C                9C KC 6S QD QS                \
+     High Card - Eight             Pair of Queens                Player 2\
+622  3S 9H KD TC 2D                JS 8C 6S 4H 4S                \
+     High Card - King              Pair of Fours                 Player 2\
+623  2S 4C 8S QS 6H                KH 3H TH 8C 5D                \
+     High Card - Queen             High Card - King              Player 2\
+624  2C KH 5S 3S 7S                7H 6C 9D QD 8D                \
+     High Card - King              High Card - Queen             Player 1\
+625  8H KS AC 2D KH                TS 6C JS KC 7H                \
+     Pair of Kings                 High Card - King              Player 1\
+626  9C KS 5C TD QC                AH 6C 5H 9S 7C                \
+     High Card - King              High Card - Ace               Player 2\
+627  5D 4D 3H 4H 6S                7C 7S AH QD TD                \
+     Pair of Fours                 Pair of Sevens                Player 2\
+628  2H 7D QC 6S TC                TS AH 7S 9D 3H                \
+     High Card - Queen             High Card - Ace               Player 2\
+629  TH 5H QD 9S KS                7S 7C 6H 8C TD                \
+     High Card - King              Pair of Sevens                Player 2\
+630  TH 2D 4D QC 5C                7D JD AH 9C 4H                \
+     High Card - Queen             High Card - Ace               Player 2\
+631  4H 3H AH 8D 6H                QC QH 9H 2H 2C                \
+     High Card - Ace               Pairs (Queen, Two)            Player 2\
+632  2D AD 4C TS 6H                7S TH 4H QS TD                \
+     High Card - Ace               Pair of Tens                  Player 2\
+633  3C KD 2H 3H QS                JD TC QC 5D 8H                \
+     Pair of Threes                High Card - Queen             Player 1\
+634  KS JC QD TH 9S                KD 8D 8C 2D 9C                \
+     Straight                      Pair of Eights                Player 1\
+635  3C QD KD 6D 4D                8D AH AD QC 8S                \
+     High Card - King              Pairs (Ace, Eight)            Player 2\
+636  8H 3S 9D 2S 3H                KS 6H 4C 7C KC                \
+     Pair of Threes                Pair of Kings                 Player 2\
+637  TH 9S 5C 3D 7D                6H AC 7S 4D 2C                \
+     High Card - Ten               High Card - Ace               Player 2\
+638  5C 3D JD 4D 2D                6D 5H 9H 4C KH                \
+     High Card - Jack              High Card - King              Player 2\
+639  AS 7H TD 6C 2H                3D QD KS 4C 4S                \
+     High Card - Ace               Pair of Fours                 Player 2\
+640  JC 3C AC 7C JD                JS 8H 9S QC 5D                \
+     Pair of Jacks                 High Card - Queen             Player 1\
+641  JD 6S 5S 2H AS                8C 7D 5H JH 3D                \
+     High Card - Ace               High Card - Jack              Player 1\
+642  8D TC 5S 9S 8S                3H JC 5H 7S AS                \
+     Pair of Eights                High Card - Ace               Player 1\
+643  5C TD 3D 7D 4H                8D 7H 4D 5D JS                \
+     High Card - Ten               High Card - Jack              Player 2\
+644  QS 9C KS TD 2S                8S 5C 2H 4H AS                \
+     High Card - King              High Card - Ace               Player 2\
+645  TH 7S 4H 7D 3H                JD KD 5D 2S KC                \
+     Pair of Sevens                Pair of Kings                 Player 2\
+646  JD 7H 4S 8H 4C                JS 6H QH 5S 4H                \
+     Pair of Fours                 High Card - Queen             Player 1\
+647  2C QS 8C 5S 3H                QC 2S 6C QD AD                \
+     High Card - Queen             Pair of Queens                Player 2\
+648  8C 3D JD TC 4H                2H AD 5S AC 2S                \
+     High Card - Jack              Pairs (Ace, Two)              Player 2\
+649  5D 2C JS 2D AD                9D 3D 4C 4S JH                \
+     Pair of Twos                  Pair of Fours                 Player 2\
+650  8D 5H 5D 6H 7S                4D KS 9D TD JD                \
+     Pair of Fives                 High Card - King              Player 1\
+651  3D 6D 9C 2S AS                7D 5S 5C 8H JD                \
+     High Card - Ace               Pair of Fives                 Player 2\
+652  7C 8S 3S 6S 5H                JD TC AD 7H 7S                \
+     High Card - Eight             Pair of Sevens                Player 2\
+653  2S 9D TS 4D AC                8D 6C QD JD 3H                \
+     High Card - Ace               High Card - Queen             Player 1\
+654  9S KH 2C 3C AC                3D 5H 6H 8D 5D                \
+     High Card - Ace               Pair of Fives                 Player 2\
+655  KS 3D 2D 6S AS                4C 2S 7C 7H KH                \
+     High Card - Ace               Pair of Sevens                Player 2\
+656  AC 2H 3S JC 5C                QH 4D 2D 5H 7S                \
+     High Card - Ace               High Card - Queen             Player 1\
+657  TS AS JD 8C 6H                JC 8S 5S 2C 5D                \
+     High Card - Ace               Pair of Fives                 Player 2\
+658  7S QH 7H 6C QC                8H 2D 7C JD 2S                \
+     Pairs (Queen, Seven)          Pair of Twos                  Player 1\
+659  2C QD 2S 2H JC                9C 5D 2D JD JH                \
+     Three of a Kind (Twos)        Pair of Jacks                 Player 1\
+660  7C 5C 9C 8S 7D                6D 8D 6C 9S JH                \
+     Pair of Sevens                Pair of Sixs                  Player 1\
+661  2C AD 6S 5H 3S                KS 7S 9D KH 4C                \
+     High Card - Ace               Pair of Kings                 Player 2\
+662  7H 6C 2C 5C TH                9D 8D 3S QC AH                \
+     High Card - Ten               High Card - Ace               Player 2\
+663  5S KC 6H TC 5H                8S TH 6D 3C AH                \
+     Pair of Fives                 High Card - Ace               Player 1\
+664  9C KD 4H AD TD                9S 4S 7D 6H 5D                \
+     High Card - Ace               High Card - Nine              Player 1\
+665  7H 5C 5H 6D AS                4C KD KH 4H 9D                \
+     Pair of Fives                 Pairs (King, Four)            Player 2\
+666  3C 2S 5C 6C JD                QS 2H 9D 7D 3H                \
+     High Card - Jack              High Card - Queen             Player 2\
+667  AC 2S 6S 7S JS                QD 5C QS 6H AD                \
+     High Card - Ace               Pair of Queens                Player 2\
+668  5H TH QC 7H TC                3S 7C 6D KC 3D                \
+     Pair of Tens                  Pair of Threes                Player 1\
+669  4H 3D QC 9S 8H                2C 3S JC KS 5C                \
+     High Card - Queen             High Card - King              Player 2\
+670  4S 6S 2C 6H 8S                3S 3D 9H 3H JS                \
+     Pair of Sixs                  Three of a Kind (Threes)      Player 2\
+671  4S 8C 4D 2D 8H                9H 7D 9D AH TS                \
+     Pairs (Eight, Four)           Pair of Nines                 Player 1\
+672  9S 2C 9H 4C 8D                AS 7D 3D 6D 5S                \
+     Pair of Nines                 High Card - Ace               Player 1\
+673  6S 4C 7H 8C 3H                5H JC AH 9D 9C                \
+     High Card - Eight             Pair of Nines                 Player 2\
+674  2S 7C 5S JD 8C                3S 3D 4D 7D 6S                \
+     High Card - Jack              Pair of Threes                Player 2\
+675  3C KC 4S 5D 7D                3D JD 7H 3H 4H                \
+     High Card - King              Pair of Threes                Player 2\
+676  9C 9H 4H 4D TH                6D QD 8S 9S 7S                \
+     Pairs (Nine, Four)            High Card - Queen             Player 1\
+677  2H AC 8S 4S AD                8C 2C AH 7D TC                \
+     Pair of Aces                  High Card - Ace               Player 1\
+678  TS 9H 3C AD KS                TC 3D 8C 8H JD                \
+     High Card - Ace               Pair of Eights                Player 2\
+679  QC 8D 2C 3C 7D                7C JD 9H 9C 6C                \
+     High Card - Queen             Pair of Nines                 Player 2\
+680  AH 6S JS JH 5D                AS QC 2C JD TD                \
+     Pair of Jacks                 High Card - Ace               Player 1\
+681  9H KD 2H 5D 2D                3S 7D TC AH TS                \
+     Pair of Twos                  Pair of Tens                  Player 2\
+682  TD 8H AS 5D AH                QC AC 6S TC 5H                \
+     Pair of Aces                  High Card - Ace               Player 1\
+683  KS 4S 7H 4D 8D                9C TC 2H 6H 3H                \
+     Pair of Fours                 High Card - Ten               Player 1\
+684  3H KD 4S QD QH                3D 8H 8C TD 7S                \
+     Pair of Queens                Pair of Eights                Player 1\
+685  8S JD TC AH JS                QS 2D KH KS 4D                \
+     Pair of Jacks                 Pair of Kings                 Player 2\
+686  3C AD JC KD JS                KH 4S TH 9H 2C                \
+     Pair of Jacks                 High Card - King              Player 1\
+687  QC 5S JS 9S KS                AS 7C QD 2S JD                \
+     High Card - King              High Card - Ace               Player 2\
+688  KC 5S QS 3S 2D                AC 5D 9H 8H KS                \
+     High Card - King              High Card - Ace               Player 2\
+689  6H 9C TC AD 2C                6D 5S JD 6C 7C                \
+     High Card - Ace               Pair of Sixs                  Player 2\
+690  QS KH TD QD 2C                3H 8S 2S QC AH                \
+     Pair of Queens                High Card - Ace               Player 1\
+691  9D 9H JH TC QH                3C 2S JS 5C 7H                \
+     Pair of Nines                 High Card - Jack              Player 1\
+692  6C 3S 3D 2S 4S                QD 2D TH 5D 2C                \
+     Pair of Threes                Pair of Twos                  Player 1\
+693  2D 6H 6D 2S JC                QH AS 7H 4H KH                \
+     Pairs (Six, Two)              High Card - Ace               Player 1\
+694  5H 6S KS AD TC                TS 7C AC 4S 4H                \
+     High Card - Ace               Pair of Fours                 Player 2\
+695  AD 3C 4H QS 8C                9D KS 2H 2D 4D                \
+     High Card - Ace               Pair of Twos                  Player 2\
+696  4S 9D 6C 6D 9C                AC 8D 3H 7H KD                \
+     Pairs (Nine, Six)             High Card - Ace               Player 1\
+697  JC AH 6C TS JD                6D AD 3S 5D QD                \
+     Pair of Jacks                 High Card - Ace               Player 1\
+698  JC JH JD 3S 7S                8S JS QC 3H 4S                \
+     Three of a Kind (Jacks)       High Card - Queen             Player 1\
+699  JD TH 5C 2C AD                JS 7H 9S 2H 7S                \
+     High Card - Ace               Pair of Sevens                Player 2\
+700  8D 3S JH 4D QC                AS JD 2C KC 6H                \
+     High Card - Queen             High Card - Ace               Player 2\
+701  2C AC 5H KD 5S                7H QD JH AH 2D                \
+     Pair of Fives                 High Card - Ace               Player 1\
+702  JC QH 8D 8S TC                5H 5C AH 8C 6C                \
+     Pair of Eights                Pair of Fives                 Player 1\
+703  3H JS 8S QD JH                3C 4H 6D 5C 3S                \
+     Pair of Jacks                 Pair of Threes                Player 1\
+704  6D 4S 4C AH 5H                5S 3H JD 7C 8D                \
+     Pair of Fours                 High Card - Jack              Player 1\
+705  8H AH 2H 3H JS                3C 7D QC 4H KD                \
+     High Card - Ace               High Card - King              Player 1\
+706  6S 2H KD 5H 8H                2D 3C 8S 7S QD                \
+     High Card - King              High Card - Queen             Player 1\
+707  2S 7S KC QC AH                TC QS 6D 4C 8D                \
+     High Card - Ace               High Card - Queen             Player 1\
+708  5S 9H 2C 3S QD                7S 6C 2H 7C 9D                \
+     High Card - Queen             Pair of Sevens                Player 2\
+709  3C 6C 5C 5S JD                JC KS 3S 5D TS                \
+     Pair of Fives                 High Card - King              Player 1\
+710  7C KS 6S 5S 2S                2D TC 2H 5H QS                \
+     High Card - King              Pair of Twos                  Player 2\
+711  AS 7H 6S TS 5H                9S 9D 3C KD 2H                \
+     High Card - Ace               Pair of Nines                 Player 2\
+712  4S JS QS 3S 4H                7C 2S AC 6S 9D                \
+     Pair of Fours                 High Card - Ace               Player 1\
+713  8C JH 2H 5H 7C                5D QH QS KH QC                \
+     High Card - Jack              Three of a Kind (Queens)      Player 2\
+714  3S TD 3H 7C KC                8D 5H 8S KH 8C                \
+     Pair of Threes                Three of a Kind (Eights)      Player 2\
+715  4H KH JD TS 3C                7H AS QC JS 5S                \
+     High Card - King              High Card - Ace               Player 2\
+716  AH 9D 2C 8D 4D                2D 6H 6C KC 6S                \
+     High Card - Ace               Three of a Kind (Sixs)        Player 2\
+717  2S 6H 9D 3S 7H                4D KH 8H KD 3D                \
+     High Card - Nine              Pair of Kings                 Player 2\
+718  9C TC AC JH KH                4D JD 5H TD 3S                \
+     High Card - Ace               High Card - Jack              Player 1\
+719  7S 4H 9D AS 4C                7D QS 9S 2S KH                \
+     Pair of Fours                 High Card - King              Player 1\
+720  3S 8D 8S KS 8C                JC 5C KH 2H 5D                \
+     Three of a Kind (Eights)      Pair of Fives                 Player 1\
+721  8S QH 2C 4D KC                JS QC 9D AC 6H                \
+     High Card - King              High Card - Ace               Player 2\
+722  8S 8C 7C JS JD                6S 4C 9C AC 4S                \
+     Pairs (Jack, Eight)           Pair of Fours                 Player 1\
+723  QH 5D 2C 7D JC                8S 2D JS JH 4C                \
+     High Card - Queen             Pair of Jacks                 Player 2\
+724  JS 4C 7S TS JH                KC KH 5H QD 4S                \
+     Pair of Jacks                 Pair of Kings                 Player 2\
+725  QD 8C 8D 2D 6S                TD 9D AC QH 5S                \
+     Pair of Eights                High Card - Ace               Player 1\
+726  QH QC JS 3D 3C                5C 4H KH 8S 7H                \
+     Pairs (Queen, Three)          High Card - King              Player 1\
+727  7C 2C 5S JC 8S                3H QC 5D 2H KC                \
+     High Card - Jack              High Card - King              Player 2\
+728  5S 8D KD 6H 4H                QD QH 6D AH 3D                \
+     High Card - King              Pair of Queens                Player 2\
+729  7S KS 6C 2S 4D                AC QS 5H TS JD                \
+     High Card - King              High Card - Ace               Player 2\
+730  7C 2D TC 5D QS                AC JS QC 6C KC                \
+     High Card - Queen             High Card - Ace               Player 2\
+731  2C KS 4D 3H TS                8S AD 4H 7S 9S                \
+     High Card - King              High Card - Ace               Player 2\
+732  QD 9H QH 5H 4H                4D KH 3S JC AD                \
+     Pair of Queens                High Card - Ace               Player 1\
+733  4D AC KC 8D 6D                4C 2D KH 2C JD                \
+     High Card - Ace               Pair of Twos                  Player 2\
+734  2C 9H 2D AH 3H                6D 9C 7D TC KS                \
+     Pair of Twos                  High Card - King              Player 1\
+735  8C 3H KD 7C 5C                2S 4S 5H AS AH                \
+     High Card - King              Pair of Aces                  Player 2\
+736  TH JD 4H KD 3H                TC 5C 3S AC KH                \
+     High Card - King              High Card - Ace               Player 2\
+737  6D 7H AH 7S QC                6H 2D TD JD AS                \
+     Pair of Sevens                High Card - Ace               Player 1\
+738  JH 5D 7H TC 9S                7D JC AS 5S KH                \
+     High Card - Jack              High Card - Ace               Player 2\
+739  2H 8C AD TH 6H                QD KD 9H 6S 6C                \
+     High Card - Ace               Pair of Sixs                  Player 2\
+740  QH KC 9D 4D 3S                JS JH 4H 2C 9H                \
+     High Card - King              Pair of Jacks                 Player 2\
+741  TC 7H KH 4H JC                7D 9S 3H QS 7S                \
+     High Card - King              Pair of Sevens                Player 2\
+742  AD 7D JH 6C 7H                4H 3S 3H 4D QH                \
+     Pair of Sevens                Pairs (Four, Three)           Player 2\
+743  JD 2H 5C AS 6C                QC 4D 3C TC JH                \
+     High Card - Ace               High Card - Queen             Player 1\
+744  AC JD 3H 6H 4C                JC AD 7D 7H 9H                \
+     High Card - Ace               Pair of Sevens                Player 2\
+745  4H TC TS 2C 8C                6S KS 2H JD 9S                \
+     Pair of Tens                  High Card - King              Player 1\
+746  4C 3H QS QC 9S                9H 6D KC 9D 9C                \
+     Pair of Queens                Three of a Kind (Nines)       Player 2\
+747  5C AD 8C 2C QH                TH QD JC 8D 8H                \
+     High Card - Ace               Pair of Eights                Player 2\
+748  QC 2C 2S QD 9C                4D 3S 8D JH QS                \
+     Pairs (Queen, Two)            High Card - Queen             Player 1\
+749  9D 3S 2C 7S 7C                JC TD 3C TC 9H                \
+     Pair of Sevens                Pair of Tens                  Player 2\
+750  3C TS 8H 5C 4C                2C 6S 8D 7C 4H                \
+     High Card - Ten               High Card - Eight             Player 1\
+751  KS 7H 2H TC 4H                2C 3S AS AH QS                \
+     High Card - King              Pair of Aces                  Player 2\
+752  8C 2D 2H 2C 4S                4C 6S 7D 5S 3S                \
+     Three of a Kind (Twos)        Straight                      Player 2\
+753  TH QC 5D TD 3C                QS KD KC KS AS                \
+     Pair of Tens                  Three of a Kind (Kings)       Player 2\
+754  4D AH KD 9H KS                5C 4C 6H JC 7S                \
+     Pair of Kings                 High Card - Jack              Player 1\
+755  KC 4H 5C QS TC                2H JC 9S AH QH                \
+     High Card - King              High Card - Ace               Player 2\
+756  4S 9H 3H 5H 3C                QD 2H QC JH 8H                \
+     Pair of Threes                Pair of Queens                Player 2\
+757  5D AS 7H 2C 3D                JH 6H 4C 6S 7D                \
+     High Card - Ace               Pair of Sixs                  Player 2\
+758  9C JD 9H AH JS                8S QH 3H KS 8H                \
+     Pairs (Jack, Nine)            Pair of Eights                Player 1\
+759  3S AC QC TS 4D                AD 3D AH 8S 9H                \
+     High Card - Ace               Pair of Aces                  Player 2\
+760  7H 3H QS 9C 9S                5H JH JS AH AC                \
+     Pair of Nines                 Pairs (Ace, Jack)             Player 2\
+761  8D 3C JD 2H AC                9C 7H 5S 4D 8H                \
+     High Card - Ace               High Card - Nine              Player 1\
+762  7C JH 9H 6C JS                9S 7H 8C 9D 4H                \
+     Pair of Jacks                 Pair of Nines                 Player 1\
+763  2D AS 9S 6H 4D                JS JH 9H AD QD                \
+     High Card - Ace               Pair of Jacks                 Player 2\
+764  6H 7S JH KH AH                7H TD 5S 6S 2C                \
+     High Card - Ace               High Card - Ten               Player 1\
+765  8H JH 6S 5H 5S                9D TC 4C QC 9S                \
+     Pair of Fives                 Pair of Nines                 Player 2\
+766  7D 2C KD 3H 5H                AS QD 7H JS 4D                \
+     High Card - King              High Card - Ace               Player 2\
+767  TS QH 6C 8H TH                5H 3C 3H 9C 9D                \
+     Pair of Tens                  Pairs (Nine, Three)           Player 2\
+768  AD KH JS 5D 3H                AS AC 9S 5C KC                \
+     High Card - Ace               Pair of Aces                  Player 2\
+769  2C KH 8C JC QS                6D AH 2D KC TC                \
+     High Card - King              High Card - Ace               Player 2\
+770  9D 3H 2S 7C 4D                6D KH KS 8D 7D                \
+     High Card - Nine              Pair of Kings                 Player 2\
+771  9H 2S TC JH AC                QC 3H 5S 3S 8H                \
+     High Card - Ace               Pair of Threes                Player 2\
+772  3S AS KD 8H 4C                3H 7C JH QH TS                \
+     High Card - Ace               High Card - Queen             Player 1\
+773  7S 6D 7H 9D JH                4C 3D 3S 6C AS                \
+     Pair of Sevens                Pair of Threes                Player 1\
+774  4S 2H 2C 4C 8S                5H KC 8C QC QD                \
+     Pairs (Four, Two)             Pair of Queens                Player 1\
+775  3H 3S 6C QS QC                2D 6S 5D 2C 9D                \
+     Pairs (Queen, Three)          Pair of Twos                  Player 1\
+776  2H 8D JH 2S 3H                2D 6C 5C 7S AD                \
+     Pair of Twos                  High Card - Ace               Player 1\
+777  9H JS 5D QH 8S                TS 2H 7S 6S AD                \
+     High Card - Queen             High Card - Ace               Player 2\
+778  6D QC 9S 7H 5H                5C 7D KC JD 4H                \
+     High Card - Queen             High Card - King              Player 2\
+779  QC 5S 9H 9C 4D                6S KS 2S 4C 7C                \
+     Pair of Nines                 High Card - King              Player 1\
+780  9H 7C 4H 8D 3S                6H 5C 8H JS 7S                \
+     High Card - Nine              High Card - Jack              Player 2\
+781  2D 6H JS TD 4H                4D JC TH 5H KC                \
+     High Card - Jack              High Card - King              Player 2\
+782  AC 7C 8D TH 3H                9S 2D 4C KC 4D                \
+     High Card - Ace               Pair of Fours                 Player 2\
+783  KD QS 9C 7S 3D                KS AD TS 4C 4H                \
+     High Card - King              Pair of Fours                 Player 2\
+784  QH 9C 8H 2S 7D                KS 7H 5D KD 4C                \
+     High Card - Queen             Pair of Kings                 Player 2\
+785  9C 2S 2H JC 6S                6C TC QC JH 5C                \
+     Pair of Twos                  High Card - Queen             Player 1\
+786  7S AC 8H KC 8S                6H QS JC 3D 6S                \
+     Pair of Eights                Pair of Sixs                  Player 1\
+787  JS 2D JH 8C 4S                6H 8H 6D 5D AD                \
+     Pair of Jacks                 Pair of Sixs                  Player 1\
+788  6H 7D 2S 4H 9H                7C AS AC 8H 5S                \
+     High Card - Nine              Pair of Aces                  Player 2\
+789  3C JS 4S 6D 5H                2S QH 6S 9C 2C                \
+     High Card - Jack              Pair of Twos                  Player 2\
+790  3D 5S 6S 9S 4C                QS 8D QD 8S TC                \
+     High Card - Nine              Pairs (Queen, Eight)          Player 2\
+791  9C 3D AH 9H 5S                2C 7D AD JC 3S                \
+     Pair of Nines                 High Card - Ace               Player 1\
+792  7H TC AS 3C 6S                6D 7S KH KC 9H                \
+     High Card - Ace               Pair of Kings                 Player 2\
+793  3S TC 8H 6S 5H                JH 8C 7D AC 2S                \
+     High Card - Ten               High Card - Ace               Player 2\
+794  QD 9D 9C 3S JC                8C KS 8H 5D 4D                \
+     Pair of Nines                 Pair of Eights                Player 1\
+795  JS AH JD 6D 9D                8C 9H 9S 8H 3H                \
+     Pair of Jacks                 Pairs (Nine, Eight)           Player 2\
+796  2D 6S 4C 4D 8S                AD 4S TC AH 9H                \
+     Pair of Fours                 Pair of Aces                  Player 2\
+797  TS AC QC TH KC                6D 4H 7S 8C 2H                \
+     Pair of Tens                  High Card - Eight             Player 1\
+798  3C QD JS 9D 5S                JC AH 2H TS 9H                \
+     High Card - Queen             High Card - Ace               Player 2\
+799  3H 4D QH 5D 9C                5H 7D 4S JC 3S                \
+     High Card - Queen             High Card - Jack              Player 1\
+800  8S TH 3H 7C 2H                JD JS TS AC 8D                \
+     High Card - Ten               Pair of Jacks                 Player 2\
+801  9C 2H TD KC JD                2S 8C 5S AD 2C                \
+     High Card - King              Pair of Twos                  Player 2\
+802  3D KD 7C 5H 4D                QH QD TC 6H 7D                \
+     High Card - King              Pair of Queens                Player 2\
+803  7H 2C KC 5S KD                6H AH QC 7S QH                \
+     Pair of Kings                 Pair of Queens                Player 1\
+804  6H 5C AC 5H 2C                9C 2D 7C TD 2S                \
+     Pair of Fives                 Pair of Twos                  Player 1\
+805  4D 9D AH 3D 7C                JD 4H 8C 4C KS                \
+     High Card - Ace               Pair of Fours                 Player 2\
+806  TH 3C JS QH 8H                4C AS 3D QS QC                \
+     High Card - Queen             Pair of Queens                Player 2\
+807  4D 7S 5H JH 6D                7D 6H JS KH 3C                \
+     High Card - Jack              High Card - King              Player 2\
+808  QD 8S 7D 2H 2C                7C JC 2S 5H 8C                \
+     Pair of Twos                  High Card - Jack              Player 1\
+809  QH 8S 9D TC 2H                AD 7C 8D QD 6S                \
+     High Card - Queen             High Card - Ace               Player 2\
+810  3S 7C AD 9H 2H                9S JD TS 4C 2D                \
+     High Card - Ace               High Card - Jack              Player 1\
+811  3S AS 4H QC 2C                8H 8S 7S TD TC                \
+     High Card - Ace               Pairs (Ten, Eight)            Player 2\
+812  JH TH TD 3S 4D                4H 5S 5D QS 2C                \
+     Pair of Tens                  Pair of Fives                 Player 1\
+813  8C QD QH TC 6D                4S 9S 9D 4H QC                \
+     Pair of Queens                Pairs (Nine, Four)            Player 2\
+814  8C JS 9D 6H JD                3H AD 6S TD QC                \
+     Pair of Jacks                 High Card - Ace               Player 1\
+815  KC 8S 3D 7C TD                7D 8D 9H 4S 3S                \
+     High Card - King              High Card - Nine              Player 1\
+816  6C 4S 3D 9D KD                TC KC KS AC 5S                \
+     High Card - King              Pair of Kings                 Player 2\
+817  7C 6S QH 3D JS                KD 6H 6D 2D 8C                \
+     High Card - Queen             Pair of Sixs                  Player 2\
+818  JD 2S 5S 4H 8S                AC 2D 6S TS 5C                \
+     High Card - Jack              High Card - Ace               Player 2\
+819  5H 8C 5S 3C 4S                3D 7C 8D AS 3H                \
+     Pair of Fives                 Pair of Threes                Player 1\
+820  AS TS 7C 3H AD                7D JC QS 6C 6H                \
+     Pair of Aces                  Pair of Sixs                  Player 1\
+821  3S 9S 4C AC QH                5H 5D 9H TS 4H                \
+     High Card - Ace               Pair of Fives                 Player 2\
+822  6C 5C 7H 7S TD                AD JD 5S 2H 2S                \
+     Pair of Sevens                Pair of Twos                  Player 1\
+823  7D 6C KC 3S JD                8D 8S TS QS KH                \
+     High Card - King              Pair of Eights                Player 2\
+824  8S QS 8D 6C TH                AC AH 2C 8H 9S                \
+     Pair of Eights                Pair of Aces                  Player 2\
+825  7H TD KH QH 8S                3D 4D AH JD AS                \
+     High Card - King              Pair of Aces                  Player 2\
+826  TS 3D 2H JC 2S                JH KH 6C QC JS                \
+     Pair of Twos                  Pair of Jacks                 Player 2\
+827  KC TH 2D 6H 7S                2S TC 8C 9D QS                \
+     High Card - King              High Card - Queen             Player 1\
+828  3C 9D 6S KH 8H                6D 5D TH 2C 2H                \
+     High Card - King              Pair of Twos                  Player 2\
+829  6H TC 7D AD 4D                8S TS 9H TD 7S                \
+     High Card - Ace               Pair of Tens                  Player 2\
+830  JS 6D JD JC 2H                AC 6C 3D KH 8D                \
+     Three of a Kind (Jacks)       High Card - Ace               Player 1\
+831  KH JD 9S 5D 4H                4C 3H 7S QS 5C                \
+     High Card - King              High Card - Queen             Player 1\
+832  4H JD 5D 3S 3C                4D KH QH QS 7S                \
+     Pair of Threes                Pair of Queens                Player 2\
+833  JD TS 8S QD AH                4C 6H 3S 5S 2C                \
+     High Card - Ace               Straight                      Player 2\
+834  QS 3D JD AS 8D                TH 7C 6S QC KS                \
+     High Card - Ace               High Card - King              Player 1\
+835  7S 2H 8C QC 7H                AC 6D 2D TH KH                \
+     Pair of Sevens                High Card - Ace               Player 1\
+836  5S 6C 7H KH 7D                AH 8C 5C 7S 3D                \
+     Pair of Sevens                High Card - Ace               Player 1\
+837  3C KD AD 7D 6C                4D KS 2D 8C 4S                \
+     High Card - Ace               Pair of Fours                 Player 2\
+838  7C 8D 5S 2D 2S                AH AD 2C 9D TD                \
+     Pair of Twos                  Pair of Aces                  Player 2\
+839  3C AD 4S KS JH                7C 5C 8C 9C TH                \
+     High Card - Ace               High Card - Ten               Player 1\
+840  AS TD 4D 7C JD                8C QH 3C 5H 9S                \
+     High Card - Ace               High Card - Queen             Player 1\
+841  3H 9C 8S 9S 6S                QD KS AH 5H JH                \
+     Pair of Nines                 High Card - Ace               Player 1\
+842  QC 9C 5S 4H 2H                TD 7D AS 8C 9D                \
+     High Card - Queen             High Card - Ace               Player 2\
+843  8C 2C 9D KD TC                7S 3D KH QC 3C                \
+     High Card - King              Pair of Threes                Player 2\
+844  4D AS 4C QS 5S                9D 6S JD QH KS                \
+     Pair of Fours                 High Card - King              Player 1\
+845  6D AH 6C 4C 5H                TS 9H 7D 3D 5S                \
+     Pair of Sixs                  High Card - Ten               Player 1\
+846  QS JD 7C 8D 9C                AC 3S 6S 6C KH                \
+     High Card - Queen             Pair of Sixs                  Player 2\
+847  8H JH 5D 9S 6D                AS 6S 3S QC 7H                \
+     High Card - Jack              High Card - Ace               Player 2\
+848  QD AD 5C JH 2H                AH 4H AS KC 2C                \
+     High Card - Ace               Pair of Aces                  Player 2\
+849  JH 9C 2C 6H 2D                JS 5D 9H KC 6D                \
+     Pair of Twos                  High Card - King              Player 1\
+850  7D 9D KD TH 3H                AS 6S QC 6H AD                \
+     High Card - King              Pairs (Ace, Six)              Player 2\
+851  JD 4H 7D KC 3H                JS 3C TH 3D QS                \
+     High Card - King              Pair of Threes                Player 2\
+852  4C 3H 8C QD 5H                6H AS 8H AD JD                \
+     High Card - Queen             Pair of Aces                  Player 2\
+853  TH 8S KD 5D QC                7D JS 5S 5H TS                \
+     High Card - King              Pair of Fives                 Player 2\
+854  7D KC 9D QS 3H                3C 6D TS 7S AH                \
+     High Card - King              High Card - Ace               Player 2\
+855  7C 4H 7H AH QC                AC 4D 5D 6D TH                \
+     Pair of Sevens                High Card - Ace               Player 1\
+856  3C 4H 2S KD 8H                5H JH TC 6C JD                \
+     High Card - King              Pair of Jacks                 Player 2\
+857  4S 8C 3D 4H JS                TD 7S JH QS KD                \
+     Pair of Fours                 High Card - King              Player 1\
+858  7C QC KD 4D 7H                6S AD TD TC KH                \
+     Pair of Sevens                Pair of Tens                  Player 2\
+859  5H 9H KC 3H 4D                3D AD 6S QD 6H                \
+     High Card - King              Pair of Sixs                  Player 2\
+860  TH 7C 6H TS QH                5S 2C KC TD 6S                \
+     Pair of Tens                  High Card - King              Player 1\
+861  7C 4D 5S JD JH                7D AC KD KH 4H                \
+     Pair of Jacks                 Pair of Kings                 Player 2\
+862  7D 6C 8D 8H 5C                JH 8S QD TH JD                \
+     Pair of Eights                Pair of Jacks                 Player 2\
+863  8D 7D 6C 7C 9D                KD AS 5C QH JH                \
+     Pair of Sevens                High Card - Ace               Player 1\
+864  9S 2C 8C 3C 4C                KS JH 2D 8D 4H                \
+     High Card - Nine              High Card - King              Player 2\
+865  7S 6C JH KH 8H                3H 9D 2D AH 6D                \
+     High Card - King              High Card - Ace               Player 2\
+866  4D TC 9C 8D 7H                TD KS TH KD 3C                \
+     High Card - Ten               Pairs (King, Ten)             Player 2\
+867  JD 9H 8D QD AS                KD 9D 2C 2S 9C                \
+     High Card - Ace               Pairs (Nine, Two)             Player 2\
+868  8D 3H 5C 7H KS                5H QH 2D 8C 9H                \
+     High Card - King              High Card - Queen             Player 1\
+869  2D TH 6D QD 6C                KC 3H 3S AD 4C                \
+     Pair of Sixs                  Pair of Threes                Player 1\
+870  4H 3H JS 9D 3C                TC 5H QH QC JC                \
+     Pair of Threes                Pair of Queens                Player 2\
+871  3D 5C 6H 3S 3C                JC 5S 7S 2S QH                \
+     Three of a Kind (Threes)      High Card - Queen             Player 1\
+872  AC 5C 8C 4D 5D                4H 2S QD 3C 3H                \
+     Pair of Fives                 Pair of Threes                Player 1\
+873  2C TD AH 9C KD                JS 6S QD 4C QC                \
+     High Card - Ace               Pair of Queens                Player 2\
+874  QS 8C 3S 4H TC                JS 3H 7C JC AD                \
+     High Card - Queen             Pair of Jacks                 Player 2\
+875  5H 4D 9C KS JC                TD 9S TS 8S 9H                \
+     High Card - King              Pairs (Ten, Nine)             Player 2\
+876  QD TS 7D AS AC                2C TD 6H 8H AH                \
+     Pair of Aces                  High Card - Ace               Player 1\
+877  6S AD 8C 4S 9H                8D 9D KH 8S 3C                \
+     High Card - Ace               Pair of Eights                Player 2\
+878  QS 4D 2D 7S KH                JS JC AD 4C 3C                \
+     High Card - King              Pair of Jacks                 Player 2\
+879  QS 9S 7H KC TD                TH 5H JS AC JH                \
+     High Card - King              Pair of Jacks                 Player 2\
+880  6D AC 2S QS 7C                AS KS 6S KH 5S                \
+     High Card - Ace               Pair of Kings                 Player 2\
+881  6D 8H KH 3C QS                2H 5C 9C 9D 6C                \
+     High Card - King              Pair of Nines                 Player 2\
+882  JS 2C 4C 6H 7D                JC AC QD TD 3H                \
+     High Card - Jack              High Card - Ace               Player 2\
+883  4H QC 8H JD 4C                KD KS 5C KC 7S                \
+     Pair of Fours                 Three of a Kind (Kings)       Player 2\
+884  6D 2D 3H 2S QD                5S 7H AS TH 6S                \
+     Pair of Twos                  High Card - Ace               Player 1\
+885  AS 6D 8D 2C 8S                TD 8H QD JC AH                \
+     Pair of Eights                High Card - Ace               Player 1\
+886  9C 9H 2D TD QH                2H 5C TC 3D 8H                \
+     Pair of Nines                 High Card - Ten               Player 1\
+887  KC 8S 3D KH 2S                TS TC 6S 4D JH                \
+     Pair of Kings                 Pair of Tens                  Player 1\
+888  9H 9D QS AC KC                6H 5D 4D 8D AH                \
+     Pair of Nines                 High Card - Ace               Player 1\
+889  9S 5C QS 4H 7C                7D 2H 8S AD JS                \
+     High Card - Queen             High Card - Ace               Player 2\
+890  3D AC 9S AS 2C                2D 2H 3H JC KH                \
+     Pair of Aces                  Pair of Twos                  Player 1\
+891  7H QH KH JD TC                KS 5S 8H 4C 8D                \
+     High Card - King              Pair of Eights                Player 2\
+892  2H 7H 3S 2S 5H                QS 3C AS 9H KD                \
+     Pair of Twos                  High Card - Ace               Player 1\
+893  AD 3D JD 6H 5S                9C 6D AC 9S 3S                \
+     High Card - Ace               Pair of Nines                 Player 2\
+894  3D 5D 9C 2D AC                4S 2S AD 6C 6S                \
+     High Card - Ace               Pair of Sixs                  Player 2\
+895  QC 4C 2D 3H 6S                KC QH QD 2H JH                \
+     High Card - Queen             Pair of Queens                Player 2\
+896  QC 3C 8S 4D 9S                2H 5C 8H QS QD                \
+     High Card - Queen             Pair of Queens                Player 2\
+897  6D KD 6S 7H 3S                KH 2H 5C JC 6C                \
+     Pair of Sixs                  High Card - King              Player 1\
+898  3S 9S TC 6S 8H                2D AD 7S 8S TS                \
+     High Card - Ten               High Card - Ace               Player 2\
+899  3C 6H 9C 3H 5C                JC 8H QH TD QD                \
+     Pair of Threes                Pair of Queens                Player 2\
+900  3C JS QD 5D TD                2C KH 9H TH AS                \
+     High Card - Queen             High Card - Ace               Player 2\
+901  9S TC JD 3D 5C                5H AD QH 9H KC                \
+     High Card - Jack              High Card - Ace               Player 2\
+902  TC 7H 4H 8H 3H                TD 6S AC 7C 2S                \
+     High Card - Ten               High Card - Ace               Player 2\
+903  QS 9D 5D 3C JC                KS 4D 6C JH 2S                \
+     High Card - Queen             High Card - King              Player 2\
+904  9S 6S 3C 7H TS                4C KD 6D 3D 9C                \
+     High Card - Ten               High Card - King              Player 2\
+905  2D 9H AH AC 7H                2S JH 3S 7C QC                \
+     Pair of Aces                  High Card - Queen             Player 1\
+906  QD 9H 3C 2H AC                AS 8S KD 8C KH                \
+     High Card - Ace               Pairs (King, Eight)           Player 2\
+907  2D 7S TD TH 6D                JD 8D 4D 2H 5S                \
+     Pair of Tens                  High Card - Jack              Player 1\
+908  8S QH KD JD QS                JH 4D KC 5H 3S                \
+     Pair of Queens                High Card - King              Player 1\
+909  3C KH QC 6D 8H                3S AH 7D TD 2D                \
+     High Card - King              High Card - Ace               Player 2\
+910  5S 9H QH 4S 6S                6C 6D TS TH 7S                \
+     High Card - Queen             Pairs (Ten, Six)              Player 2\
+911  6C 4C 6D QS JS                9C TS 3H 8D 8S                \
+     Pair of Sixs                  Pair of Eights                Player 2\
+912  JS 5C 7S AS 2C                AH 2H AD 5S TC                \
+     High Card - Ace               Pair of Aces                  Player 2\
+913  KD 6C 9C 9D TS                2S JC 4H 2C QD                \
+     Pair of Nines                 Pair of Twos                  Player 1\
+914  QS 9H TC 3H KC                KS 4H 3C AD TH                \
+     High Card - King              High Card - Ace               Player 2\
+915  KH 9C 2H KD 9D                TC 7S KC JH 2D                \
+     Pairs (King, Nine)            High Card - King              Player 1\
+916  7C 3S KC AS 8C                5D 9C 9S QH 3H                \
+     High Card - Ace               Pair of Nines                 Player 2\
+917  2D 8C TD 4C 2H                QC 5D TC 2C 7D                \
+     Pair of Twos                  High Card - Queen             Player 1\
+918  KS 4D 6C QH TD                KH 5D 7C AD 8D                \
+     High Card - King              High Card - Ace               Player 2\
+919  2S 9S 8S 4C 8C                3D 6H QD 7C 7H                \
+     Pair of Eights                Pair of Sevens                Player 1\
+920  6C 8S QH 5H TS                5C 3C 4S 2S 2H                \
+     High Card - Queen             Pair of Twos                  Player 2\
+921  8S 6S 2H JC 3S                3H 9D 8C 2S 7H                \
+     High Card - Jack              High Card - Nine              Player 1\
+922  QC 2C 8H 9C AC                JD 4C 4H 6S 3S                \
+     High Card - Ace               Pair of Fours                 Player 2\
+923  3H 3S 7D 4C 9S                5H 8H JC 3D TC                \
+     Pair of Threes                High Card - Jack              Player 1\
+924  QH 2S 2D 9S KD                QD 9H AD 6D 9C                \
+     Pair of Twos                  Pair of Nines                 Player 2\
+925  8D 2D KS 9S JC                4C JD KC 4S TH                \
+     High Card - King              Pair of Fours                 Player 2\
+926  KH TS 6D 4D 5C                KD 5H AS 9H AD                \
+     High Card - King              Pair of Aces                  Player 2\
+927  QD JS 7C 6D 5D                5C TH 5H QH QS                \
+     High Card - Queen             Pairs (Queen, Five)           Player 2\
+928  9D QH KH 5H JH                4C 4D TC TH 6C                \
+     High Card - King              Pairs (Ten, Four)             Player 2\
+929  KH AS TS 9D KD                9C 7S 4D 8H 5S                \
+     Pair of Kings                 High Card - Nine              Player 1\
+930  KH AS 2S 7D 9D                4C TS TH AH 7C                \
+     High Card - Ace               Pair of Tens                  Player 2\
+931  KS 4D AC 8S 9S                8D TH QH 9D 5C                \
+     High Card - Ace               High Card - Queen             Player 1\
+932  5D 5C 8C QS TC                4C 3D 3S 2C 8D                \
+     Pair of Fives                 Pair of Threes                Player 1\
+933  9D KS 2D 3C KC                4S 8C KH 6C JC                \
+     Pair of Kings                 High Card - King              Player 1\
+934  8H AH 6H 7D 7S                QD 3C 4C 6C KC                \
+     Pair of Sevens                High Card - King              Player 1\
+935  3H 2C QH 8H AS                7D 4C 8C 4H KC                \
+     High Card - Ace               Pair of Fours                 Player 2\
+936  QD 5S 4H 2C TD                AH JH QH 4C 8S                \
+     High Card - Queen             High Card - Ace               Player 2\
+937  3H QS 5S JS 8H                2S 9H 9C 3S 2C                \
+     High Card - Queen             Pairs (Nine, Two)             Player 2\
+938  6H TS 7S JC QD                AC TD KC 5S 3H                \
+     High Card - Queen             High Card - Ace               Player 2\
+939  QH AS QS 7D JC                KC 2C 4C 5C 5S                \
+     Pair of Queens                Pair of Fives                 Player 1\
+940  QH 3D AS JS 4H                8D 7H JC 2S 9C                \
+     High Card - Ace               High Card - Jack              Player 1\
+941  5D 4D 2S 4S 9D                9C 2D QS 8H 7H                \
+     Pair of Fours                 High Card - Queen             Player 1\
+942  6D 7H 3H JS TS                AC 2D JH 7C 8S                \
+     High Card - Jack              High Card - Ace               Player 2\
+943  JH 5H KC 3C TC                5S 9H 4C 8H 9D                \
+     High Card - King              Pair of Nines                 Player 2\
+944  8S KC 5H 9H AD                KS 9D KH 8D AH                \
+     High Card - Ace               Pair of Kings                 Player 2\
+945  JC 2H 9H KS 6S                3H QC 5H AH 9C                \
+     High Card - King              High Card - Ace               Player 2\
+946  5C KH 5S AD 6C                JC 9H QC 9C TD                \
+     Pair of Fives                 Pair of Nines                 Player 2\
+947  5S 5D JC QH 2D                KS 8H QS 2H TS                \
+     Pair of Fives                 High Card - King              Player 1\
+948  JH 5H 5S AH 7H                3C 8S AS TD KH                \
+     Pair of Fives                 High Card - Ace               Player 1\
+949  6H 3D JD 2C 4C                KC 7S AH 6C JH                \
+     High Card - Jack              High Card - Ace               Player 2\
+950  4C KS 9D AD 7S                KC 7D 8H 3S 9C                \
+     High Card - Ace               High Card - King              Player 1\
+951  7H 5C 5H 3C 8H                QC 3D KH 6D JC                \
+     Pair of Fives                 High Card - King              Player 1\
+952  2D 4H 5D 7D QC                AD AH 9H QH 8H                \
+     High Card - Queen             Pair of Aces                  Player 2\
+953  KD 8C JS 9D 3S                3C 2H 5D 6D 2S                \
+     High Card - King              Pair of Twos                  Player 2\
+954  8S 6S TS 3C 6H                8D 5S 3H TD 6C                \
+     Pair of Sixs                  High Card - Ten               Player 1\
+955  KS 3D JH 9C 7C                9S QS 5S 4H 6H                \
+     High Card - King              High Card - Queen             Player 1\
+956  7S 6S TH 4S KC                KD 3S JC JH KS                \
+     High Card - King              Pairs (King, Jack)            Player 2\
+957  7C 3C 2S 6D QH                2C 7S 5H 8H AH                \
+     High Card - Queen             High Card - Ace               Player 2\
+958  KC 8D QD 6D KH                5C 7H 9D 3D 9C                \
+     Pair of Kings                 Pair of Nines                 Player 1\
+959  6H 2D 8S JS 9S                2S 6D KC 7C TC                \
+     High Card - Jack              High Card - King              Player 2\
+960  KD 9C JH 7H KC                8S 2S 7S 3D 6H                \
+     Pair of Kings                 High Card - Eight             Player 1\
+961  4H 9H 2D 4C 8H                7H 5S 8S 2H 8D                \
+     Pair of Fours                 Pair of Eights                Player 2\
+962  AD 7C 3C 7S 5S                4D 9H 3D JC KH                \
+     Pair of Sevens                High Card - King              Player 1\
+963  5D AS 7D 6D 9C                JC 4C QH QS KH                \
+     High Card - Ace               Pair of Queens                Player 2\
+964  KD JD 7D 3D QS                QC 8S 6D JS QD                \
+     High Card - King              Pair of Queens                Player 2\
+965  6S 8C 5S QH TH                9H AS AC 2C JD                \
+     High Card - Queen             Pair of Aces                  Player 2\
+966  QC KS QH 7S 3C                4C 5C KC 5D AH                \
+     Pair of Queens                Pair of Fives                 Player 1\
+967  6C 4H 9D AH 2C                3H KD 3D TS 5C                \
+     High Card - Ace               Pair of Threes                Player 2\
+968  TD 8S QS AS JS                3H KD AC 4H KS                \
+     High Card - Ace               Pair of Kings                 Player 2\
+969  7D 5D TS 9H 4H                4C 9C 2H 8C QC                \
+     High Card - Ten               High Card - Queen             Player 2\
+970  2C 7D 9H 4D KS                4C QH AD KD JS                \
+     High Card - King              High Card - Ace               Player 2\
+971  QD AD AH KH 9D                JS 9H JC KD JD                \
+     Pair of Aces                  Three of a Kind (Jacks)       Player 2\
+972  8S 3C 4S TS 7S                4D 5C 2S 6H 7C                \
+     High Card - Ten               High Card - Seven             Player 1\
+973  JS 7S 5C KD 6D                QH 8S TD 2H 6S                \
+     High Card - King              High Card - Queen             Player 1\
+974  QH 6C TC 6H TD                4C 9D 2H QC 8H                \
+     Pairs (Ten, Six)              High Card - Queen             Player 1\
+975  3D TS 4D 2H 6H                6S 2C 7H 8S 6C                \
+     High Card - Ten               Pair of Sixs                  Player 2\
+976  9H 9D JD JH 3S                AH 2C 6S 3H 8S                \
+     Pairs (Jack, Nine)            High Card - Ace               Player 1\
+977  2C QS 8C 5S 3H                2S 7D 3C AD 4S                \
+     High Card - Queen             High Card - Ace               Player 2\
+978  5C QC QH AS TS                4S 6S 4C 5H JS                \
+     Pair of Queens                Pair of Fours                 Player 1\
+979  JH 5C TD 4C 6H                JS KD KH QS 4H                \
+     High Card - Jack              Pair of Kings                 Player 2\
+980  TC KH JC 4D 9H                9D 8D KC 3C 8H                \
+     High Card - King              Pair of Eights                Player 2\
+981  2H TC 8S AD 9S                4H TS 7H 2C 5C                \
+     High Card - Ace               High Card - Ten               Player 1\
+982  4H 2S 6C 5S KS                AH 9C 7C 8H KD                \
+     High Card - King              High Card - Ace               Player 2\
+983  TS QH TD QS 3C                JH AH 2C 8D 7D                \
+     Pairs (Queen, Ten)            High Card - Ace               Player 1\
+984  5D KC 3H 5S AC                4S 7H QS 4C 2H                \
+     Pair of Fives                 Pair of Fours                 Player 1\
+985  3D 7D QC KH JH                6D 6C TD TH KD                \
+     High Card - King              Pairs (Ten, Six)              Player 2\
+986  5S 8D TH 6C 9D                7D KH 8C 9S 6D                \
+     High Card - Ten               High Card - King              Player 2\
+987  JD QS 7S QC 2S                QH JC 4S KS 8D                \
+     Pair of Queens                High Card - King              Player 1\
+988  7S 5S 9S JD KD                9C JC AD 2D 7C                \
+     High Card - King              High Card - Ace               Player 2\
+989  4S 5H AH JH 9C                5D TD 7C 2D 6S                \
+     High Card - Ace               High Card - Ten               Player 1\
+990  KC 6C 7H 6S 9C                QD 5S 4H KS TD                \
+     Pair of Sixs                  High Card - King              Player 1\
+991  6S 8D KS 2D TH                TD 9H JD TS 3S                \
+     High Card - King              Pair of Tens                  Player 2\
+992  KH JS 4H 5D 9D                TC TD QC JD TS                \
+     High Card - King              Three of a Kind (Tens)        Player 2\
+993  QS QD AC AD 4C                6S 2D AS 3H KC                \
+     Pairs (Ace, Queen)            High Card - Ace               Player 1\
+994  4C 7C 3C TD QS                9C KC AS 8D AD                \
+     High Card - Queen             Pair of Aces                  Player 2\
+995  KC 7H QC 6D 8H                6S 5S AH 7S 8C                \
+     High Card - King              High Card - Ace               Player 2\
+996  3S AD 9H JC 6D                JD AS KH 6S JH                \
+     High Card - Ace               Pair of Jacks                 Player 2\
+997  AD 3D TS KS 7H                JH 2D JS QD AC                \
+     High Card - Ace               Pair of Jacks                 Player 2\
+998  9C JD 7C 6D TC                6H 6C JC 3D 3S                \
+     High Card - Jack              Pairs (Six, Three)            Player 2\
+999  QC KC 3S JC KD                2C 8D AH QS TS                \
+     Pair of Kings                 High Card - Ace               Player 1\
+1000 AS KD 3D JD 8H                7C 8C 5C QD 6C                \
+     High Card - Ace               High Card - Queen             Player 1}
