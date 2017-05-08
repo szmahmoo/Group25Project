@@ -1,24 +1,26 @@
-import java.awt.*;
+import java.iostream;
+import java.string;
+import java.fstream;
+import java.cctype;
+import java.iomanip;
+import java.util.stream;
 
 
 // Constants for the program
+const int RANK_SIZE = 15;   // Maximum size of rank array
+const int HAND_SIZE = 5;    // Maximum size of hand
+const int MAX_HANDS = 1000; // MAXIMUM HANDS TO load
+const string FILE_NAME = "poker.txt";
 
-public class Poker {
-   public static final int RANK_SIZE = 15;   // Maximum size of rank array
-	public static final int HAND_SIZE = 5;    // Maximum size of hand
-	public static final int MAX_HANDS = 1000; // MAXIMUM HANDS TO load
-	public static final string FILE_NAME = "poker.txt";
 // Structure to define a Card, that has a face and value
-
-struct Card()
+struct Card
 {
     char suit;
     char face;
 };
 
 // Structure to define a Hand
-
-struct Hand()
+struct Hand
 {
     Card cards [HAND_SIZE];
 };
@@ -30,7 +32,7 @@ int * getRanks(Hand hand);          // Function to get the Rank of given hand.
 int * getSuitRank(Hand hand);       // Function to get the Suit rank of given hand
 int * getHandRanks(Hand hand);      // Function to get ranks array sorted for hand
 
-public boolean isPair(Hand hand);             // Function to check that the hand has a Pair
+bool isPair(Hand hand);             // Function to check that the hand has a Pair
 bool isTwoPairs(Hand hand);         // Function to check that if there are two pairs
 bool isThreeOfKind(Hand hand);      // Function to check that given hand is a Three of Kind
 bool isFlush(Hand hand);            // Function to check that if a given hand is a flush
@@ -75,13 +77,13 @@ int main()
     // Load hands
     loadHands(playerOne, playerTwo, count);
     
-    System.out.println ("Total Hands loaded: " ) + count;
+    System.out.println ("Total Hands loaded: " )<< count << endl;
     
-    System.out.println left + setw(5) + ("Hand")
-          setw(30) + ("Player 1")
-          setw(30) + ("Player 2")
-          setw(15) + ("Winner");
-    System.out.println("===========================================================================");
+    System.out.println left << setw(5) << "Hand"
+         << setw(30) << "Player 1"
+         << setw(30) << "Player 2"
+         << setw(15) << "Winner" << endl;
+    System.out.println("===========================================================================") << endl;
     
     for(int i=0; i<count; i++)
     {
@@ -95,8 +97,12 @@ int main()
     }
     
     System.out.println endl;
-    System.out.println ("Player 1 Wins ") << playerOneWins << (" times.") << endl; 
+    System.out.println "Player 1 Wins " << playerOneWins << " times." << endl;
+    
+    system("Pause");
+    
     return 0;
+}
 
 // Function to get the value of a given card (Ace is highest card)
 int cardValue(Card card)
