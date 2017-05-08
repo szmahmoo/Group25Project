@@ -23,42 +23,42 @@ struct Hand()
     Card cards [HAND_SIZE];
 };
 
-public int cardValue(Card card);           // Function to get the value of a given card
-public int suitValue(Card card);           // Function to get the suit values: Spade=1, Club=2, Diamond=3, Hearts=4
-public int * getRanks(Hand hand);          // Function to get the Rank of given hand.
-                                    	   // Rank is an array with counts of cards.
-public int * getSuitRank(Hand hand);       // Function to get the Suit rank of given hand
-public int * getHandRanks(Hand hand);      // Function to get ranks array sorted for hand
+int cardValue(Card card);           // Function to get the value of a given card
+int suitValue(Card card);           // Function to get the suit values: Spade=1, Club=2, Diamond=3, Hearts=4
+int * getRanks(Hand hand);          // Function to get the Rank of given hand.
+                                    // Rank is an array with counts of cards.
+int * getSuitRank(Hand hand);       // Function to get the Suit rank of given hand
+int * getHandRanks(Hand hand);      // Function to get ranks array sorted for hand
 
-public public boolean isPair(Hand hand);             // Function to check that the hand has a Pair
-public public boolean isTwoPairs(Hand hand);         // Function to check that if there are two pairs
-public public boolean isThreeOfKind(Hand hand);      // Function to check that given hand is a Three of Kind
-public public boolean isFlush(Hand hand);            // Function to check that if a given hand is a flush
-public public boolean isFullHouse(Hand hand);        // Function to Check that a given Hand is a Full House
-public public boolean isStraight(Hand hand);         // Function to check that a given hand is a Straight
-public public boolean isFourOfKind(Hand hand);       // Function to check that a given hand is a Four of Kind
+public boolean isPair(Hand hand);             // Function to check that the hand has a Pair
+bool isTwoPairs(Hand hand);         // Function to check that if there are two pairs
+bool isThreeOfKind(Hand hand);      // Function to check that given hand is a Three of Kind
+bool isFlush(Hand hand);            // Function to check that if a given hand is a flush
+bool isFullHouse(Hand hand);        // Function to Check that a given Hand is a Full House
+bool isStraight(Hand hand);         // Function to check that a given hand is a Straight
+bool isFourOfKind(Hand hand);       // Function to check that a given hand is a Four of Kind
 
-public int getRankOfHighCard(Hand hand);       // Function to rank of highest card
-public int getRankOfPair(Hand hand);           // Function to Get the rank of a given pair (One Pair)
-public int getRankOfTwoPairs(Hand hand);       // Function to Get the rank of a given pair (Two Pairs)
-public int getRankOfThreeOfKind(Hand hand);    // Function to get the rank of Three of Kind
-public int getRankOfStraight(Hand hand);       // Function to get the Rank of a Straight
-public int getRankOfFlush(Hand hand);          // Function to get the rank of a Flush
-public int getRankOfFullHouse(Hand hand);      // Function to Get the rank of a Full House
-public int getRankOfFourOfKind(Hand hand);     // Function to get the rank of Four of a Kind
+int getRankOfHighCard(Hand hand);       // Function to rank of highest card
+int getRankOfPair(Hand hand);           // Function to Get the rank of a given pair (One Pair)
+int getRankOfTwoPairs(Hand hand);       // Function to Get the rank of a given pair (Two Pairs)
+int getRankOfThreeOfKind(Hand hand);    // Function to get the rank of Three of Kind
+int getRankOfStraight(Hand hand);       // Function to get the Rank of a Straight
+int getRankOfFlush(Hand hand);          // Function to get the rank of a Flush
+int getRankOfFullHouse(Hand hand);      // Function to Get the rank of a Full House
+int getRankOfFourOfKind(Hand hand);     // Function to get the rank of Four of a Kind
 
-public int getHandType(Hand h);            // Function to get the type of hand
-public int getWinner(Hand h1, Hand h2);    // Function to get the winner of a given hand
+int getHandType(Hand h);            // Function to get the type of hand
+int getWinner(Hand h1, Hand h2);    // Function to get the winner of a given hand
 
-public string getFaceName(int face);       // Get the string representation of Card value
-public string getType(Hand hand);          // Function to get the type of hand i.e Pair of Fives
+string getFaceName(int face);       // Get the string representation of Card value
+string getType(Hand hand);          // Function to get the type of hand i.e Pair of Fives
 
 // Function to load hands into player hands
 // Receives Hand arrays for 2 players, and load all the hands into the array
-public void loadHands(Hand playerOne [], Hand playerTwo [], int & count);
+void loadHands(Hand playerOne [], Hand playerTwo [], int & count);
 
 // Function to display two hands as given in the pdf file
-public void dislayHand(Hand h1, Hand h2, int, int &);
+void dislayHand(Hand h1, Hand h2, int, int &);
 
 
 //---------------------------------------- Main Method --------------------------------------//
@@ -75,12 +75,12 @@ int main()
     // Load hands
     loadHands(playerOne, playerTwo, count);
     
-    System.out.println (("Total Hands loaded: " ) + count);
+    System.out.println ("Total Hands loaded: " ) + count;
     
-    System.out.println (left + setw(5) + ("Hand"));
-          (setw(30) + ("Player 1"));
-          (setw(30) + ("Player 2"));
-          (setw(15) + ("Winner"));
+    System.out.println left + setw(5) + ("Hand")
+          setw(30) + ("Player 1")
+          setw(30) + ("Player 2")
+          setw(15) + ("Winner");
     System.out.println("===========================================================================");
     
     for(int i=0; i<count; i++)
@@ -95,11 +95,11 @@ int main()
     }
     
     System.out.println endl;
-    System.out.println (("Player 1 Wins ") + playerOneWins + (" times.")); 
+    System.out.println ("Player 1 Wins ") << playerOneWins << (" times.") << endl; 
     return 0;
 
 // Function to get the value of a given card (Ace is highest card)
-public int cardValue(Card card)
+int cardValue(Card card)
 {
     int value = 0;
     
@@ -199,7 +199,7 @@ int * getHandRanks(Hand hand)
 
 //------------------------------------- Poker Hand Cases -------------------------------------------//
 // Function to check that the hand has a Pair
-public boolean isPair(Hand hand)
+bool isPair(Hand hand)
 {
     // Get the rank array
     int * ranks = getRanks(hand);
@@ -217,7 +217,7 @@ public boolean isPair(Hand hand)
 }
 
 // Function to check that if there are two pairs
-public boolean isTwoPairs(Hand hand)
+bool isTwoPairs(Hand hand)
 {
     // Get the rank array
     int * ranks = getRanks(hand);
@@ -235,7 +235,7 @@ public boolean isTwoPairs(Hand hand)
 }
 
 // Function to check that given hand is a Three of Kind
-public boolean isThreeOfKind(Hand hand)
+bool isThreeOfKind(Hand hand)
 {
     // Get the rank array
     int * ranks = getRanks(hand);
@@ -253,7 +253,7 @@ public boolean isThreeOfKind(Hand hand)
 }
 
 // Function to check that if a given hand is a flush
-public boolean isFlush(Hand hand)
+bool isFlush(Hand hand)
 {
     // Get the rank array
     int * ranks = getSuitRank(hand);
@@ -270,7 +270,7 @@ public boolean isFlush(Hand hand)
 }
 
 // Function to Check that a given Hand is a Full House
-public boolean isFullHouse(Hand hand)
+bool isFullHouse(Hand hand)
 {
     // Get the rank array
     int * ranks = getRanks(hand);
@@ -295,7 +295,7 @@ public boolean isFullHouse(Hand hand)
 }
 
 // Function to check that a given hand is a Straight
-public boolean isStraight(Hand hand)
+bool isStraight(Hand hand)
 {
     // Get the rank array
     int * ranks = getRanks(hand);
@@ -320,7 +320,7 @@ public boolean isStraight(Hand hand)
 }
 
 // Function to check that a given hand is a Four of Kind
-public boolean isFourOfKind(Hand hand)
+bool isFourOfKind(Hand hand)
 {
     /// Get the rank array
     int * ranks = getRanks(hand);
@@ -338,7 +338,7 @@ public boolean isFourOfKind(Hand hand)
 
 //-------------------------------------- Poker Hand Ranks ------------------------------------------//
 // Function to rank of highest card
-public int getRankOfHighCard(Hand hand)
+int getRankOfHighCard(Hand hand)
 {
     int * ranks = getRanks(hand);
     
@@ -355,7 +355,7 @@ public int getRankOfHighCard(Hand hand)
 }
 
 // Function to Get the rank of a given pair (One Pair)
-public int getRankOfPair(Hand hand)
+int getRankOfPair(Hand hand)
 {
     if(isPair(hand))
     {
@@ -378,7 +378,7 @@ public int getRankOfPair(Hand hand)
 }
 
 // Function to Get the rank of a given pair (Two Pairs)
-public int getRankOfTwoPairs(Hand hand)
+int getRankOfTwoPairs(Hand hand)
 {
     if(isTwoPairs(hand))
     {
@@ -400,7 +400,7 @@ public int getRankOfTwoPairs(Hand hand)
 }
 
 // Function to get the rank of Three of Kind
-public int getRankOfThreeOfKind(Hand hand)
+int getRankOfThreeOfKind(Hand hand)
 {
     if(isThreeOfKind(hand))
     {
