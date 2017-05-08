@@ -45,7 +45,7 @@ struct Hand
 };
 
 int cardValue(Card card);           // Function to get the value of a given card
-int suitValue(Card card);           // Function to get the suit values: Spade=1, Club=2, Hearts=3, Diamond=4
+int suitValue(Card card);           // Function to get the suit values: Spade=1, Club=2, Diamond=3, Hearts=4
 int * getRanks(Hand hand);          // Function to get the Rank of given hand.
                                     // Rank is an array with counts of cards.
 int * getSuitRank(Hand hand);       // Function to get the Suit rank of given hand
@@ -98,10 +98,10 @@ int main()
     
     cout << "Total Hands loaded: " << count << endl;
     
-    cout << left << setw(5) << "Hand"
+    cout << left << setw(5) << "Hands of:   "
          << setw(30) << "Player 1"
          << setw(30) << "Player 2"
-         << setw(15) << "Winner" << endl;
+         << setw(15) << "Winner Winner" << endl;
     cout <<"===========================================================================" << endl;
     
     for(int i=0; i<count; i++)
@@ -116,9 +116,8 @@ int main()
     }
     
     cout << endl;
-    cout << "Player 1 Wins " << playerOneWins << " times." << endl;
+    cout << "Player 1 Wins " << playerOneWins << " times!" << endl;
     
-    system("Pause");
     
     return 0;
 }
@@ -148,7 +147,7 @@ int cardValue(Card card)
     return value;
 }
 
-// Function to get the suit value of a given card (Diamonds highest in rank, while Spades lowest in rank)
+// Function to get the suit value of a given card (Hearts highest in rank, while Spades lowest in rank)
 int suitValue(Card card)
 {
     int value = 0;
@@ -156,8 +155,8 @@ int suitValue(Card card)
     {
         case 'S': value = 1; break;
         case 'C': value = 2; break;
-        case 'H': value = 3; break;
-        case 'D': value = 4; break;
+        case 'D': value = 3; break;
+        case 'H': value = 4; break;
     }
     return value;
 }
